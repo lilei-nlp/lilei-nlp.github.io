@@ -38,11 +38,11 @@ Preprints
 
 * **Can Language Models Understand Physical Concepts?**  
   **Lei Li**, Jingjing Xu, Qingxiu Dong, Ce Zheng, Qi Liu, Lingpeng Kong, Xu Sun  
-[[arixv](https://arxiv.org/pdf/2305.14057.pdf), [dataset](https://github.com/TobiasLee/VEC)]
+  [[arixv](https://arxiv.org/pdf/2305.14057.pdf), [dataset](https://github.com/TobiasLee/VEC)]
 
 
-* **Label Words are Anchors: An Information Flow Perspective for Understanding In-Context Learning** 
-  Lean Wang, **Lei Li**, Damai Dai, Deli Chen, Hao Zhou, Fandong Meng, Jie Zhou, Xu Sun 
+* **Label Words are Anchors: An Information Flow Perspective for Understanding In-Context Learning**  
+  Lean Wang, **Lei Li**, Damai Dai, Deli Chen, Hao Zhou, Fandong Meng, Jie Zhou, Xu Sun  
   [[arxiv](https://arxiv.org/pdf/2305.14160.pdf)]
 
 
@@ -64,18 +64,24 @@ Selected Publication
   **Lei Li**, Yankai Lin, Deli Chen, Shuhuai Ren, Peng Li, Jie Zhou, Xu Sun  
   ***Findings of EMNLP 2021*** [[url](https://aclanthology.org/2021.findings-emnlp.43), [code](https://github.com/lancopku/cascadebert)]
 
-* **From Mimicking to Integrating: Knowledge Integration for Pre-Trained Language Models** 
-  **Lei Li**, Yankai Lin, Xuancheng Ren, Guangxiang Zhao, Peng Li, Jie Zhou, Xu Sun 
+
+* **From Mimicking to Integrating: Knowledge Integration for Pre-Trained Language Models**   
+  **Lei Li**, Yankai Lin, Xuancheng Ren, Guangxiang Zhao, Peng Li, Jie Zhou, Xu Sun  
   ***Findings of EMNLP 2022*** [[url](https://aclanthology.org/2022.findings-emnlp.477), [code](https://github.com/lancopku/MUKI)]
 
-* **Distributional Correlation--Aware Knowledge Distillation for Stock Trading Volume Prediction**
-  **Lei Li**, Zhiyuan Zhang, Ruihan Bao, Keiko Harimoto, Xu Sun 
-  ***ECML-PKDD 2022 (Oral)*** [[arixv](https://arxiv.org/pdf/2208.07232.pdf), [code](https://github.com/lancopku/DCKD)]
 
+* **Distributional Correlation--Aware Knowledge Distillation for Stock Trading Volume Prediction**   
+  **Lei Li**, Zhiyuan Zhang, Ruihan Bao, Keiko Harimoto, Xu Sun   
+  ***ECML-PKDD 2022 (Oral)*** [[arixv](https://arxiv.org/pdf/2208.07232.pdf), [code](https://github.com/lancopku/DCKD)] 
+
+
+* **Alleviating the Knowledge-Language Inconsistency: A Study for Deep Commonsense Knowledge**  
+  Yi Zhang #, **Lei Li #**, Yunfang Wu, Qi Su, Xu Sun  
+  **IEEE Transactions on Audio, Speech and Language Processing (TASLP)** [[arxiv](https://arxiv.org/pdf/2105.13607.pdf)]
 
 * **Enhancing Topic-to-essay Generation with External Commonsense Knowledge**  
   Pengcheng Yang #, **Lei Li #**, Fuli Luo, Tianyu Liu, Xu Sun  
-  ***ACL 2019***, [[url](https://aclanthology.org/P19-1193/)]  
+  ***ACL 2019***, [[url](https://aclanthology.org/P19-1193/)] 
 
 Awards
 ======
