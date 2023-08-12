@@ -9,7 +9,7 @@ Hi, I am a PhD student at HKU NLP, co-supervised by Prof. [Qi Liu](https://leuch
 News
 =====
 
-* Our M3IT dataset for multi-modal instruction tuning is released at [HuggingFace](https://m3-it.github.io/)! 
+* Our M3IT dataset and model Ying-VLM for multi-modal instruction tuning is released at [HuggingFace](https://m3-it.github.io/)! 
 
 
 
@@ -41,10 +41,15 @@ Preprints
 [[arixv](https://arxiv.org/pdf/2305.14057.pdf), [dataset](https://github.com/TobiasLee/VEC)]
 
 
+* **Label Words are Anchors: An Information Flow Perspective for Understanding In-Context Learning** 
+  Lean Wang, **Lei Li**, Damai Dai, Deli Chen, Hao Zhou, Fandong Meng, Jie Zhou, Xu Sun 
+  [[arxiv](https://arxiv.org/pdf/2305.14160.pdf)]
+
 
 * **A Survey for In-context Learning**  
   Qingxiu Dong, **Lei Li**, Damai Dai, Ce Zheng, Zhiyong Wu, Baobao Chang, Xu Sun, Jingjing Xu, Lei Li, Zhifang Sui  
   [[arixv](https://arxiv.org/pdf/2301.00234.pdf), [paper list](https://github.com/dqxiu/ICL_PaperList)]
+
 
 
 Selected Publication
@@ -57,7 +62,16 @@ Selected Publication
 
 * **CascadeBERT: Accelerating Inference of Pre-trained Language Models via Calibrated Complete Models Cascade**  
   **Lei Li**, Yankai Lin, Deli Chen, Shuhuai Ren, Peng Li, Jie Zhou, Xu Sun  
-  ***Findings of EMNLP 2021*** [[url](https://aclanthology.org/2021.findings-emnlp.43.pdf), [code](https://github.com/lancopku/cascadebert)]
+  ***Findings of EMNLP 2021*** [[url](https://aclanthology.org/2021.findings-emnlp.43), [code](https://github.com/lancopku/cascadebert)]
+
+* **From Mimicking to Integrating: Knowledge Integration for Pre-Trained Language Models** 
+  **Lei Li**, Yankai Lin, Xuancheng Ren, Guangxiang Zhao, Peng Li, Jie Zhou, Xu Sun 
+  ***Findings of EMNLP 2022*** [[url](https://aclanthology.org/2022.findings-emnlp.477), [code](https://github.com/lancopku/MUKI)]
+
+* **Distributional Correlation--Aware Knowledge Distillation for Stock Trading Volume Prediction**
+  **Lei Li**, Zhiyuan Zhang, Ruihan Bao, Keiko Harimoto, Xu Sun 
+  ***ECML-PKDD 2022 (Oral)*** [[arixv](https://arxiv.org/pdf/2208.07232.pdf), [code](https://github.com/lancopku/DCKD)]
+
 
 * **Enhancing Topic-to-essay Generation with External Commonsense Knowledge**  
   Pengcheng Yang #, **Lei Li #**, Fuli Luo, Tianyu Liu, Xu Sun  
