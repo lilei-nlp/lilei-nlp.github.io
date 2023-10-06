@@ -8,8 +8,9 @@ Hi, I am a PhD student at HKU NLP, co-supervised by Prof. [Qi Liu](https://leuch
 
 News
 =====
-
-* Our M3IT dataset and model Ying-VLM for multi-modal instruction tuning is released at [HuggingFace](https://m3-it.github.io/)! 
+* [2023/10] Our Multimodal AI Assistant, [Yasa-1](https://reka.ai/announcing-our-multimodal-ai-assistant/), is released!
+* [2023/09] One paper has been accepted by NeurIPS 2023.
+* [2023/06] Our M3IT dataset and model Ying-VLM for multi-modal instruction tuning is released at [HuggingFace](https://m3-it.github.io/)! 
 
 
 
@@ -23,7 +24,8 @@ Education
 
 Internship
 ======
-* Shanghai AI Lab,Research Intern, July 2022 - June 2023.
+* [Reka AI](https://reka.ai/), Multi-modal LLM R&D Intern, July 2023 - Now
+* Shanghai AI Lab, Research Intern, July 2022 - June 2023.
 * Toutiao Search, Search Algorithm Intern, Dec.2021 - June 2022.
 * Wechat AI, Research Intern, April 2020 - Nov. 2021 
 
@@ -82,6 +84,14 @@ Selected Publication
 * **Enhancing Topic-to-essay Generation with External Commonsense Knowledge**  
   Pengcheng Yang #, **Lei Li #**, Fuli Luo, Tianyu Liu, Xu Sun  
   ***ACL 2019***, [[url](https://aclanthology.org/P19-1193/)] 
+
+
+
+Academic Service
+=====
+- **Reviewer/Program Committee**: ICLR 2024, NeurIPS 2023, ACL(2020 - 2023), EMNLP (2020 - 2023) 
+- **Teaching Assistant**: Machine Learning in Trading and Finance(2023 Fall, HKU), Computational Linguistics (2021 Fall, PKU)
+
 
 Awards
 ======
