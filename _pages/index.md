@@ -8,10 +8,10 @@ Hi, I am a PhD student at HKU NLP, co-supervised by Prof. [Qi Liu](https://leuch
 
 News
 =====
+* [2023/10] Four papers got accepted by EMNLP 2023!
 * [2023/10] Our Multimodal AI Assistant, [Yasa-1](https://reka.ai/announcing-our-multimodal-ai-assistant/), is released!
 * [2023/09] One paper has been accepted by NeurIPS 2023.
 * [2023/06] Our M3IT dataset and model Ying-VLM for multi-modal instruction tuning is released at [HuggingFace](https://m3-it.github.io/)! 
-
 
 
 Education
@@ -38,16 +38,6 @@ Preprints
 [[arxiv](https://arxiv.org/pdf/2306.04387.pdf), [dataset](https://huggingface.co/datasets/MMInstruction/M3IT)]
 
 
-* **Can Language Models Understand Physical Concepts?**  
-  **Lei Li**, Jingjing Xu, Qingxiu Dong, Ce Zheng, Qi Liu, Lingpeng Kong, Xu Sun  
-  [[arixv](https://arxiv.org/pdf/2305.14057.pdf), [dataset](https://github.com/TobiasLee/VEC)]
-
-
-* **Label Words are Anchors: An Information Flow Perspective for Understanding In-Context Learning**  
-  Lean Wang, **Lei Li**, Damai Dai, Deli Chen, Hao Zhou, Fandong Meng, Jie Zhou, Xu Sun  
-  [[arxiv](https://arxiv.org/pdf/2305.14160.pdf)]
-
-
 * **A Survey for In-context Learning**  
   Qingxiu Dong, **Lei Li**, Damai Dai, Ce Zheng, Zhiyong Wu, Baobao Chang, Xu Sun, Jingjing Xu, Lei Li, Zhifang Sui  
   [[arixv](https://arxiv.org/pdf/2301.00234.pdf), [paper list](https://github.com/dqxiu/ICL_PaperList)]
@@ -57,6 +47,16 @@ Preprints
 Selected Publication
 ======
 (# denotes Equal Contribution)
+
+* **Can Language Models Understand Physical Concepts?**  
+  **Lei Li**, Jingjing Xu, Qingxiu Dong, Ce Zheng, Qi Liu, Lingpeng Kong, Xu Sun  
+  ***EMNLP 2023*** [[arixv](https://arxiv.org/pdf/2305.14057.pdf), [dataset](https://github.com/TobiasLee/VEC)]
+
+
+* **Label Words are Anchors: An Information Flow Perspective for Understanding In-Context Learning**  
+  Lean Wang, **Lei Li**, Damai Dai, Deli Chen, Hao Zhou, Fandong Meng, Jie Zhou, Xu Sun  
+  ***EMNLP 2023*** [[arxiv](https://arxiv.org/pdf/2305.14160.pdf)]
+
 
 * **Dynamic Knowledge Distillation for Pre-trained Language Models**  
   **Lei Li**, Yankai Lin, Shuhuai Ren, Peng Li, Jie Zhou, Xu Sun  
