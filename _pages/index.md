@@ -40,7 +40,7 @@ Preprints
 
 * **A Survey for In-context Learning**  
   Qingxiu Dong, **Lei Li**, Damai Dai, Ce Zheng, Zhiyong Wu, Baobao Chang, Xu Sun, Jingjing Xu, Lei Li, Zhifang Sui  
-  [[arixv](https://arxiv.org/pdf/2301.00234.pdf), [paper list](https://github.com/dqxiu/ICL_PaperList)]
+  [[arxiv](https://arxiv.org/pdf/2301.00234.pdf), [paper list](https://github.com/dqxiu/ICL_PaperList)]
 
 
 
@@ -50,7 +50,7 @@ Selected Publication
 
 * **Can Language Models Understand Physical Concepts?**  
   **Lei Li**, Jingjing Xu, Qingxiu Dong, Ce Zheng, Qi Liu, Lingpeng Kong, Xu Sun  
-  ***EMNLP 2023*** [[arixv](https://arxiv.org/pdf/2305.14057.pdf), [dataset](https://github.com/TobiasLee/VEC)]
+  ***EMNLP 2023*** [[arxiv](https://arxiv.org/pdf/2305.14057.pdf), [dataset](https://github.com/TobiasLee/VEC)]
 
 
 * **Label Words are Anchors: An Information Flow Perspective for Understanding In-Context Learning**  
@@ -74,7 +74,7 @@ Selected Publication
 
 * **Distributional Correlation--Aware Knowledge Distillation for Stock Trading Volume Prediction**   
   **Lei Li**, Zhiyuan Zhang, Ruihan Bao, Keiko Harimoto, Xu Sun   
-  ***ECML-PKDD 2022 (Oral)*** [[arixv](https://arxiv.org/pdf/2208.07232.pdf), [code](https://github.com/lancopku/DCKD)] 
+  ***ECML-PKDD 2022 (Oral)*** [[arxiv](https://arxiv.org/pdf/2208.07232.pdf), [code](https://github.com/lancopku/DCKD)] 
 
 
 * **Alleviating the Knowledge-Language Inconsistency: A Study for Deep Commonsense Knowledge**  
