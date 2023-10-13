@@ -3,14 +3,14 @@ permalink: /
 title: "About"
 ---
 
-Hi, I am a PhD student at HKU NLP, co-supervised by Prof. [Qi Liu](https://leuchine.github.io/) and Prof. [Lingpeng Kong](https://ikekonglp.github.io/). My research interests lie in empowering LLMs with multi-modal abilities and exploring their emerging capabilities. Previously, I completed my master's degree at Peking University as a member of LANCO, advised by Prof. [Xu Sun](https://xusun.org), and my bachelor's degree at Xidian University.
+Hi, I am a PhD student at [HKU NLP](https://hkunlp.github.io/) group, co-supervised by Prof. [Qi Liu](https://leuchine.github.io/) and Prof. [Lingpeng Kong](https://ikekonglp.github.io/). My research interests lie in empowering LLMs with multi-modal abilities and exploring their emerging capabilities. Previously, I completed my master's degree at Peking University as a member of LANCO, advised by Prof. [Xu Sun](https://xusun.org), and my bachelor's degree at Xidian University.
 
 
 News
 =====
 * [2023/10] Four papers got accepted by EMNLP 2023!
 * [2023/10] Our Multimodal AI Assistant, [Yasa-1](https://reka.ai/announcing-our-multimodal-ai-assistant/), is released!
-* [2023/09] One paper has been accepted by NeurIPS 2023.
+* [2023/09] One paper got accepted by NeurIPS D&B 2023.
 * [2023/06] Our M3IT dataset and model Ying-VLM for multi-modal instruction tuning is released at [HuggingFace](https://m3-it.github.io/)! 
 
 
@@ -26,8 +26,12 @@ Internship
 ======
 * [Reka AI](https://reka.ai/), Multi-modal LLM R&D Intern, July 2023 - Now
 * Shanghai AI Lab, Research Intern, July 2022 - June 2023.
-* Toutiao Search, Search Algorithm Intern, Dec.2021 - June 2022.
-* Wechat AI, Research Intern, April 2020 - Nov. 2021 
+
+  Mentor: Dr. [Jingjing Xu](https://jingjingxu.com/)
+* Toutiao Search, Search Algorithm Intern, Dec.2021 - June 2022. 
+* Wechat AI, Research Intern, April 2020 - Nov. 2021. 
+
+  Mentor: Dr. [Yankai Lin](https://linyankai.github.io/) and Dr. [Peng Li](https://www.lpeng.net/)
 
 
 Preprints
@@ -52,29 +56,23 @@ Selected Publication
   **Lei Li**, Jingjing Xu, Qingxiu Dong, Ce Zheng, Qi Liu, Lingpeng Kong, Xu Sun  
   ***EMNLP 2023*** [[arxiv](https://arxiv.org/pdf/2305.14057.pdf), [dataset](https://github.com/TobiasLee/VEC)]
 
-
-* **Label Words are Anchors: An Information Flow Perspective for Understanding In-Context Learning**  
-  Lean Wang, **Lei Li**, Damai Dai, Deli Chen, Hao Zhou, Fandong Meng, Jie Zhou, Xu Sun  
-  ***EMNLP 2023*** [[arxiv](https://arxiv.org/pdf/2305.14160.pdf)]
-
-
-* **Dynamic Knowledge Distillation for Pre-trained Language Models**  
-  **Lei Li**, Yankai Lin, Shuhuai Ren, Peng Li, Jie Zhou, Xu Sun  
-  ***EMNLP 2021 (Oral)*** [[url](https://aclanthology.org/2021.emnlp-main.31/), [code](https://github.com/lancopku/DynamicKD)]
-
-* **CascadeBERT: Accelerating Inference of Pre-trained Language Models via Calibrated Complete Models Cascade**  
-  **Lei Li**, Yankai Lin, Deli Chen, Shuhuai Ren, Peng Li, Jie Zhou, Xu Sun  
-  ***Findings of EMNLP 2021*** [[url](https://aclanthology.org/2021.findings-emnlp.43), [code](https://github.com/lancopku/cascadebert)]
-
+* **Distributional Correlation--Aware Knowledge Distillation for Stock Trading Volume Prediction**   
+  **Lei Li**, Zhiyuan Zhang, Ruihan Bao, Keiko Harimoto, Xu Sun   
+  ***ECML-PKDD 2022 (Oral)*** [[arxiv](https://arxiv.org/pdf/2208.07232.pdf), [code](https://github.com/lancopku/DCKD)] 
 
 * **From Mimicking to Integrating: Knowledge Integration for Pre-Trained Language Models**   
   **Lei Li**, Yankai Lin, Xuancheng Ren, Guangxiang Zhao, Peng Li, Jie Zhou, Xu Sun  
   ***Findings of EMNLP 2022*** [[url](https://aclanthology.org/2022.findings-emnlp.477), [code](https://github.com/lancopku/MUKI)]
 
 
-* **Distributional Correlation--Aware Knowledge Distillation for Stock Trading Volume Prediction**   
-  **Lei Li**, Zhiyuan Zhang, Ruihan Bao, Keiko Harimoto, Xu Sun   
-  ***ECML-PKDD 2022 (Oral)*** [[arxiv](https://arxiv.org/pdf/2208.07232.pdf), [code](https://github.com/lancopku/DCKD)] 
+* **Dynamic Knowledge Distillation for Pre-trained Language Models**  
+  **Lei Li**, Yankai Lin, Shuhuai Ren, Peng Li, Jie Zhou, Xu Sun  
+  ***EMNLP 2021 (Oral)*** [[url](https://aclanthology.org/2021.emnlp-main.31/), [code](https://github.com/lancopku/DynamicKD)]
+
+
+* **CascadeBERT: Accelerating Inference of Pre-trained Language Models via Calibrated Complete Models Cascade**  
+  **Lei Li**, Yankai Lin, Deli Chen, Shuhuai Ren, Peng Li, Jie Zhou, Xu Sun  
+  ***Findings of EMNLP 2021*** [[url](https://aclanthology.org/2021.findings-emnlp.43), [code](https://github.com/lancopku/cascadebert)]
 
 
 * **Alleviating the Knowledge-Language Inconsistency: A Study for Deep Commonsense Knowledge**  
@@ -89,14 +87,16 @@ Selected Publication
 
 Academic Service
 =====
-- **Reviewer/Program Committee**: ICLR 2024, NeurIPS 2023, ACL(2020 - 2023), EMNLP (2020 - 2023) 
-- **Teaching Assistant**: Machine Learning in Trading and Finance(2023 Fall, HKU), Computational Linguistics (2021 Fall, PKU)
+- **Reviewer/Program Committee**: ICLR 2024, NeurIPS 2023, ACL(2020 - 2023), EMNLP (2019 - 2023), ECML-PKDD 2022
+- **Teaching Assistant**: 
+  - Machine Learning in Trading and Finance (2023 Fall, HKU)
+  - Computational Linguistics (2021 Fall, PKU)
 
 
 Awards
 ======
 * National Scholarship, Peking University, 2021
 * National Scholarship, Xidian University, 2019 
-
+* Best Demo Award, [DeeCamp](https://deecamp.com/), 2018
 
 
