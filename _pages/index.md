@@ -48,7 +48,7 @@ Preprints
 
 
 * **VITATECS: A Diagnostic Dataset for Temporal Concept Understanding of Video-Language Models** 
-  Shicheng Li, **Lei Li**, Shuhuai Ren, Yuanxin Liu, Yi Liu, Rundong Gao, Xu Sun, Lu Hou 
+  Shicheng Li, **Lei Li**, Shuhuai Ren, Yuanxin Liu, Yi Liu, Rundong Gao, Xu Sun, Lu Hou  
   [[arxiv](https://arxiv.org/abs/2311.17404), [dataset](https://huggingface.co/datasets/lscpku/VITATECS)] 
 
 
