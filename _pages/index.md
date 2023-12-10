@@ -60,6 +60,13 @@ Selected Publication
   **Lei Li**, Jingjing Xu, Qingxiu Dong, Ce Zheng, Qi Liu, Lingpeng Kong, Xu Sun  
   ***EMNLP 2023*** [[arxiv](https://arxiv.org/pdf/2305.14057.pdf), [dataset](https://github.com/TobiasLee/VEC)]
 
+
+* **Label Words are Anchors: An Information Flow Perspective for Understanding In-Context Learning**  
+  Lean Wang, **Lei Li**, Damai Dai, Deli Chen, Hao Zhou, Fandong Meng, Jie Zhou, Xu Sun  
+  ***EMNLP 2023*** <span style="color:red">**Best Long Paper Award**</span> [[arxiv](https://arxiv.org/pdf/2305.14160.pdf), [code](https://github.com/lancopku/label-words-are-anchors)] 
+
+
+
 * **Distributional Correlation--Aware Knowledge Distillation for Stock Trading Volume Prediction**   
   **Lei Li**, Zhiyuan Zhang, Ruihan Bao, Keiko Harimoto, Xu Sun   
   ***ECML-PKDD 2022 (Oral)*** [[arxiv](https://arxiv.org/pdf/2208.07232.pdf), [code](https://github.com/lancopku/DCKD)] 
