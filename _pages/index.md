@@ -8,6 +8,7 @@ Hi, I am a PhD student at [HKU NLP](https://hkunlp.github.io/) group, co-supervi
 
 News
 =====
+* [2023/12] :boom:Our paper *[Label Words are Anchors](https://aclanthology.org/2023.emnlp-main.609/)* won the <span style="color:red">**Best Long Paper Award**</span> of EMNLP 2023! 
 * [2023/10] Four papers got accepted by EMNLP 2023!
 * [2023/10] Our Multimodal AI Assistant, [Yasa-1](https://reka.ai/announcing-our-multimodal-ai-assistant/), is released!
 * [2023/09] One paper got accepted by NeurIPS D&B 2023.
@@ -63,7 +64,7 @@ Selected Publication
 
 * **Label Words are Anchors: An Information Flow Perspective for Understanding In-Context Learning**  
   Lean Wang, **Lei Li**, Damai Dai, Deli Chen, Hao Zhou, Fandong Meng, Jie Zhou, Xu Sun  
-  ***EMNLP 2023*** <span style="color:red">**Best Long Paper Award**</span> [[arxiv](https://arxiv.org/pdf/2305.14160.pdf), [code](https://github.com/lancopku/label-words-are-anchors)] 
+  ***EMNLP 2023***  <span style="color:red">**Best Long Paper Award**</span> [[arxiv](https://arxiv.org/pdf/2305.14160.pdf), [code](https://github.com/lancopku/label-words-are-anchors)] 
 
 
 
