@@ -37,6 +37,9 @@ Internship
 
 Preprints
 ======
+* **Silkie: Preference Distillation for Large Visual Language Models**    
+**Lei Li**, Zhihui Xie, Mukai Li, Shunian Chen, Peiyi Wang, Liang Chen, Yazheng Yang, Benyou Wang, Lingpeng Kong    
+[[project page](https://vlf-silkie.github.io/)]
 
 * **M3IT: A Large-Scale Dataset towards Multi-Modal Multilingual Instruction Tuning**   
 **Lei Li**, Yuwei Yin, Shicheng Li, Liang Chen, Peiyi Wang, Shuhuai Ren, Mukai Li, Yazheng Yang, Jingjing Xu, Xu Sun, Lingpeng Kong, Qi Liu   
@@ -99,7 +102,7 @@ Selected Publication
 
 Academic Service
 =====
-- **Reviewer/Program Committee**: ICLR 2024, NeurIPS 2023, ACL(2020 - 2023), EMNLP (2019 - 2023), ECML-PKDD 2022
+- **Reviewer/Program Committee**: ICML 2024, CVPR 2024, ICLR 2024, NeurIPS 2023 (**Top Reviewer Award**), ACL(2020 - 2023), EMNLP (2019 - 2023), ECML-PKDD 2022
 - **Teaching Assistant**: 
   - Machine Learning in Trading and Finance (2023 Fall, HKU)
   - Computational Linguistics (2021 Fall, PKU)
@@ -107,6 +110,7 @@ Academic Service
 
 Awards
 ======
+* Best Long Paper Award, EMNLP, 2023 
 * National Scholarship, Peking University, 2021
 * National Scholarship, Xidian University, 2019 
 * Best Demo Award, [DeeCamp](https://deecamp.com/), 2018
