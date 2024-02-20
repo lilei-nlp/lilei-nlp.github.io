@@ -3,14 +3,16 @@ permalink: /
 title: "About"
 ---
 
-Hi, I am a PhD student at [HKU NLP](https://hkunlp.github.io/) group, co-supervised by Prof. [Qi Liu](https://leuchine.github.io/) and Prof. [Lingpeng Kong](https://ikekonglp.github.io/). My research interests lie in empowering LLMs with multi-modal abilities and exploring their emerging capabilities. Previously, I completed my master's degree at Peking University as a member of LANCO, advised by Prof. [Xu Sun](https://xusun.org), and my bachelor's degree at Xidian University.
+Hi, I am a PhD student at [HKU-NLP](https://hkunlp.github.io/) group, co-supervised by Prof. [Qi Liu](https://leuchine.github.io/) and Prof. [Lingpeng Kong](https://ikekonglp.github.io/). 
+
+My research interests lie in empowering LLMs with multi-modal abilities and exploring their emerging capabilities. Previously, I completed my master's degree at Peking University as a member of LANCO, advised by Prof. [Xu Sun](https://xusun.org), and my bachelor's degree at Xidian University.
 
 
 News
 =====
+* [2024/02] Checkout our Reka Flash, an efficient and capable multimodal language model at [Reka Playground](https://reka.ai/reka-flash-an-efficient-and-capable-multimodal-language-model/) !!
 * [2023/12] :boom:Our paper *[Label Words are Anchors](https://aclanthology.org/2023.emnlp-main.609/)* won the <span style="color:red">**Best Long Paper Award**</span> of EMNLP 2023! 
 * [2023/10] Four papers got accepted by EMNLP 2023!
-* [2023/10] Our Multimodal AI Assistant, [Yasa-1](https://reka.ai/announcing-our-multimodal-ai-assistant/), is released!
 * [2023/09] One paper got accepted by NeurIPS D&B 2023.
 * [2023/06] Our M3IT dataset and model Ying-VLM for multi-modal instruction tuning is released at [HuggingFace](https://m3-it.github.io/)! 
 
@@ -102,7 +104,8 @@ Selected Publication
 
 Academic Service
 =====
-- **Reviewer/Program Committee**: ICML 2024, CVPR 2024, ICLR 2024, NeurIPS 2023 (**Top Reviewer Award**), ACL(2020 - 2023), EMNLP (2019 - 2023), ECML-PKDD 2022
+- **Area Chair/Action Editor**: ACL ARR 2024 
+- **Reviewer/Program Committee**: COLM 2024, ICML 2024, CVPR 2024, ICLR 2024, NeurIPS 2023 (**Top Reviewer Award**), ACL(2020 - 2023), EMNLP (2019 - 2023)
 - **Teaching Assistant**: 
   - Machine Learning in Trading and Finance (2023 Fall, HKU)
   - Computational Linguistics (2021 Fall, PKU)
