@@ -39,8 +39,15 @@ Internship
 
 Preprints
 ======
+(#: Equal Contribution)
+
+* **Multimodal ArXiv: A Dataset for Improving Scientific Comprehension of Large Vision-Language Models**   
+**Lei Li #**, Yuqi Wang #, Runxin Xu, Peiyi Wang, Xiachong Feng, Lingpeng Kong, Qi Liu    
+[[project page](https://mm-arxiv.github.io/)]
+
+
 * **Silkie: Preference Distillation for Large Visual Language Models**    
-**Lei Li**, Zhihui Xie, Mukai Li, Shunian Chen, Peiyi Wang, Liang Chen, Yazheng Yang, Benyou Wang, Lingpeng Kong    
+**Lei Li #**, Zhihui Xie #, Mukai Li, Shunian Chen, Peiyi Wang, Liang Chen, Yazheng Yang, Benyou Wang, Lingpeng Kong    
 [[project page](https://vlf-silkie.github.io/)]
 
 * **M3IT: A Large-Scale Dataset towards Multi-Modal Multilingual Instruction Tuning**   
@@ -60,7 +67,6 @@ Preprints
 
 Selected Publication
 ======
-(# denotes Equal Contribution)
 
 * **Can Language Models Understand Physical Concepts?**  
   **Lei Li**, Jingjing Xu, Qingxiu Dong, Ce Zheng, Qi Liu, Lingpeng Kong, Xu Sun  
@@ -69,7 +75,7 @@ Selected Publication
 
 * **Label Words are Anchors: An Information Flow Perspective for Understanding In-Context Learning**  
   Lean Wang, **Lei Li**, Damai Dai, Deli Chen, Hao Zhou, Fandong Meng, Jie Zhou, Xu Sun  
-  ***EMNLP 2023***  <span style="color:red">**Best Long Paper Award**</span> [[arxiv](https://arxiv.org/pdf/2305.14160.pdf), [code](https://github.com/lancopku/label-words-are-anchors)] 
+  ***EMNLP 2023***  <span style="color:red">**(Best Long Paper Award)**</span> [[arxiv](https://arxiv.org/pdf/2305.14160.pdf), [code](https://github.com/lancopku/label-words-are-anchors)] 
 
 
 
