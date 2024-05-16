@@ -10,11 +10,13 @@ My research interests lie in empowering LLMs with multi-modal abilities and expl
 
 News
 =====
+
+* [2024/05] Five papers got accepted by ACL 2024 !
 * [2024/02] Checkout our Reka Flash, an efficient and capable multimodal language model at [Reka Playground](https://reka.ai/reka-flash-an-efficient-and-capable-multimodal-language-model/) !!
 * [2023/12] :boom:Our paper *[Label Words are Anchors](https://aclanthology.org/2023.emnlp-main.609/)* won the <span style="color:red">**Best Long Paper Award**</span> of EMNLP 2023! 
+
 * [2023/10] Four papers got accepted by EMNLP 2023!
 * [2023/09] One paper got accepted by NeurIPS D&B 2023.
-* [2023/06] Our M3IT dataset and model Ying-VLM for multi-modal instruction tuning is released at [HuggingFace](https://m3-it.github.io/)! 
 
 
 Education
@@ -41,9 +43,6 @@ Preprints
 ======
 (#: Equal Contribution)
 
-* **Multimodal ArXiv: A Dataset for Improving Scientific Comprehension of Large Vision-Language Models**   
-**Lei Li #**, Yuqi Wang #, Runxin Xu, Peiyi Wang, Xiachong Feng, Lingpeng Kong, Qi Liu    
-[[project page](https://mm-arxiv.github.io/)]
 
 
 * **Silkie: Preference Distillation for Large Visual Language Models**    
@@ -67,6 +66,12 @@ Preprints
 
 Selected Publication
 ======
+
+
+* **Multimodal ArXiv: A Dataset for Improving Scientific Comprehension of Large Vision-Language Models**   
+  **Lei Li #**, Yuqi Wang #, Runxin Xu, Peiyi Wang, Xiachong Feng, Lingpeng Kong, Qi Liu    
+  ***ACL 2024*** [[project page](https://mm-arxiv.github.io/)]
+
 
 * **Can Language Models Understand Physical Concepts?**  
   **Lei Li**, Jingjing Xu, Qingxiu Dong, Ce Zheng, Qi Liu, Lingpeng Kong, Xu Sun  
