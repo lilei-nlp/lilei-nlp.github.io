@@ -3,20 +3,19 @@ permalink: /
 title: "About"
 ---
 
-Hi, I am a PhD student at [HKU-NLP](https://hkunlp.github.io/) group, co-supervised by Prof. [Qi Liu](https://leuchine.github.io/) and Prof. [Lingpeng Kong](https://ikekonglp.github.io/). 
+Hi, I am a PhD student at [HKU-NLP](https://hkunlp.github.io/) group, co-supervised by Prof. [Lingpeng Kong](https://ikekonglp.github.io/) and Prof. [Qi Liu](https://leuchine.github.io/). Previously, I completed my master's degree at Peking University as a member of LANCO, advised by Prof. [Xu Sun](https://xusun.org), and my bachelor's degree at Xidian University.
 
-My research interests lie in empowering LLMs with multi-modal abilities and exploring their emerging capabilities. Previously, I completed my master's degree at Peking University as a member of LANCO, advised by Prof. [Xu Sun](https://xusun.org), and my bachelor's degree at Xidian University.
+My research interests lie in empowering LLMs with multi-modal abilities and exploring their emerging capabilities. 
 
+I am happy to discuss potential collaboration opportunities, feel free to reach out! 
 
 News
 =====
-
-* [2024/05] Five papers got accepted by ACL 2024 !
-* [2024/02] Checkout our Reka Flash, an efficient and capable multimodal language model at [Reka Playground](https://reka.ai/reka-flash-an-efficient-and-capable-multimodal-language-model/) !!
+* [2024/06] Checkout our [Video-MME](https://video-mme.github.io/home_page.html), the first-ever comprehensive benchmark for Video-LLMs.
+* [2024/05] Five papers got accepted by ACL 2024, see you at :thailand:!
+* [2024/02] Checkout our [Reka Flash and Reka Core](https://publications.reka.ai/reka-core-tech-report.pdf), first-tier mutlimodal LLMs!
 * [2023/12] :boom:Our paper *[Label Words are Anchors](https://aclanthology.org/2023.emnlp-main.609/)* won the <span style="color:red">**Best Long Paper Award**</span> of EMNLP 2023! 
 
-* [2023/10] Four papers got accepted by EMNLP 2023!
-* [2023/09] One paper got accepted by NeurIPS D&B 2023.
 
 
 Education
@@ -29,7 +28,7 @@ Education
 
 Internship
 ======
-* [Reka AI](https://reka.ai/), Multi-modal LLM R&D Intern, July 2023 - Now
+* [Reka AI](https://reka.ai/), Multi-modal LLM R&D Intern, July 2023 - May 2024 
 * Shanghai AI Lab, Research Intern, July 2022 - June 2023.
 
   Mentor: Dr. [Jingjing Xu](https://jingjingxu.com/)
