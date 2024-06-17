@@ -25,7 +25,6 @@ Education
 * BE in Software Engineering, Xidian University Sept. 2016 - Jul. 2020.
 
 
-
 Internship
 ======
 * [Reka AI](https://reka.ai/), Multi-modal LLM R&D Intern, July 2023 - May 2024 
@@ -41,7 +40,6 @@ Internship
 Preprints
 ======
 (#: Equal Contribution)
-
 
 
 * **Silkie: Preference Distillation for Large Visual Language Models**    
@@ -115,7 +113,7 @@ Selected Publication
 Academic Service
 =====
 - **Area Chair/Action Editor**: ACL ARR 2024 
-- **Reviewer/Program Committee**: COLM 2024, ICML 2024, CVPR 2024, ICLR 2024, NeurIPS 2023 (**Top Reviewer Award**), ACL(2020 - 2023), EMNLP (2019 - 2023)
+- **Reviewer/Program Committee**: IJCV, NeuIPS 2024, COLM 2024, ICML 2024, CVPR 2024, ICLR 2024, NeurIPS 2023 (**Top Reviewer Award**), ACL(2020 - 2023), EMNLP (2019 - 2023)
 - **Teaching Assistant**: 
   - Machine Learning in Trading and Finance (2023 Fall, HKU)
   - Computational Linguistics (2021 Fall, PKU)
