@@ -3,9 +3,9 @@ permalink: /
 title: "About"
 ---
 
-Hi, I am a PhD student at [HKU-NLP](https://hkunlp.github.io/) group, co-supervised by Prof. [Lingpeng Kong](https://ikekonglp.github.io/) and Prof. [Qi Liu](https://leuchine.github.io/). Previously, I completed my master's degree at Peking University as a member of LANCO, advised by Prof. [Xu Sun](https://xusun.org), and my bachelor's degree at Xidian University.
+Hi, I am a PhD student at [HKU-NLP](https://hkunlp.github.io/) group, co-supervised by Prof. [Lingpeng Kong](https://ikekonglp.github.io/) and Prof. [Qi Liu](https://leuchine.github.io/). Previously, I completed my master's degree at Peking University as a member of LANCO, advised by Prof. [Xu Sun](https://xusun26.github.io/) and my bachelor's degree at Xidian University.
 
-My research interests lie in empowering LLMs with multi-modal abilities and exploring their emerging capabilities. 
+My research interests lie in empowering LLMs with multi-modal abilities and understanding the working mechanism of LLMs. 
 
 I am happy to discuss potential collaboration opportunities, feel free to reach out! 
 
@@ -27,7 +27,7 @@ Education
 
 Internship
 ======
-* [Reka AI](https://reka.ai/), Multi-modal LLM R&D Intern, July 2023 - May 2024 
+* [Reka AI](https://reka.ai/), Multi-modal LLM R&D Intern, July 2023 - Now  
 * Shanghai AI Lab, Research Intern, July 2022 - June 2023.
 
   Mentor: Dr. [Jingjing Xu](https://jingjingxu.com/)
