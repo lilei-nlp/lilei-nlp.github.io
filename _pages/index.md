@@ -11,6 +11,7 @@ I am happy to discuss potential collaboration opportunities, feel free to reach 
 
 News
 =====
+* [2024/07] [VITATECS](https://arxiv.org/abs/2311.17404) for benchmarking temporal understanding of VideoLLMs, got accepted by ECCV 2024!  
 * [2024/06] Checkout our [Video-MME](https://video-mme.github.io/home_page.html), the first-ever comprehensive benchmark for Video-LLMs.
 * [2024/05] Five papers got accepted by ACL 2024, see you at :thailand:!
 * [2024/02] Checkout our [Reka Flash and Reka Core](https://publications.reka.ai/reka-core-tech-report.pdf), first-tier mutlimodal LLMs!
@@ -56,13 +57,13 @@ Preprints
   [[arxiv](https://arxiv.org/pdf/2301.00234.pdf), [paper list](https://github.com/dqxiu/ICL_PaperList)]
 
 
-* **VITATECS: A Diagnostic Dataset for Temporal Concept Understanding of Video-Language Models**   
-  Shicheng Li, **Lei Li**, Shuhuai Ren, Yuanxin Liu, Yi Liu, Rundong Gao, Xu Sun, Lu Hou  
-  [[arxiv](https://arxiv.org/abs/2311.17404), [dataset](https://huggingface.co/datasets/lscpku/VITATECS)] 
-
 
 Selected Publication
 ======
+
+* **VITATECS: A Diagnostic Dataset for Temporal Concept Understanding of Video-Language Models**   
+  Shicheng Li, **Lei Li**, Shuhuai Ren, Yuanxin Liu, Yi Liu, Rundong Gao, Xu Sun, Lu Hou  
+  ***ECCV 2024*** [[arxiv](https://arxiv.org/abs/2311.17404), [dataset](https://huggingface.co/datasets/lscpku/VITATECS)] 
 
 
 * **Multimodal ArXiv: A Dataset for Improving Scientific Comprehension of Large Vision-Language Models**   
