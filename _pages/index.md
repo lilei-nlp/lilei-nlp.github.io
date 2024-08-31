@@ -114,7 +114,7 @@ Selected Publication
 Academic Service
 =====
 - **Area Chair/Action Editor**: ACL ARR 2024 
-- **Reviewer/Program Committee**: IJCV, NeuIPS 2024, COLM 2024, ICML 2024, CVPR 2024, ICLR 2024, NeurIPS 2023 (**Top Reviewer Award**), ACL(2020 - 2023), EMNLP (2019 - 2023)
+- **Reviewer/Program Committee**: IJCV, ACM CSUR, NeuIPS 2024, COLM 2024, ICML 2024, CVPR 2024, ICLR 2024, NeurIPS 2023 (**Top Reviewer Award**), ACL(2020 - 2023), EMNLP (2019 - 2023)
 - **Teaching Assistant**: 
   - Machine Learning in Trading and Finance (2023 Fall, HKU)
   - Computational Linguistics (2021 Fall, PKU)
