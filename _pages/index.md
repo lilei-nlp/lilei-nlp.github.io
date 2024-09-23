@@ -11,6 +11,7 @@ I am happy to discuss potential collaboration opportunities, feel free to reach 
 
 News
 =====
+* [2024/09] Two papers (VLFeedback and ICL Survey] are accepted by EMNLP 2024 Main Conference! 
 * [2024/07] [VITATECS](https://arxiv.org/abs/2311.17404) for benchmarking temporal understanding of VideoLLMs, got accepted by ECCV 2024!  
 * [2024/06] Checkout our [Video-MME](https://video-mme.github.io/home_page.html), the first-ever comprehensive benchmark for Video-LLMs.
 * [2024/05] Five papers got accepted by ACL 2024, see you at :thailand:!
@@ -43,23 +44,25 @@ Preprints
 (#: Equal Contribution)
 
 
-* **Silkie: Preference Distillation for Large Visual Language Models**    
-**Lei Li #**, Zhihui Xie #, Mukai Li, Shunian Chen, Peiyi Wang, Liang Chen, Yazheng Yang, Benyou Wang, Lingpeng Kong    
-[[project page](https://vlf-silkie.github.io/)]
-
 * **M3IT: A Large-Scale Dataset towards Multi-Modal Multilingual Instruction Tuning**   
 **Lei Li**, Yuwei Yin, Shicheng Li, Liang Chen, Peiyi Wang, Shuhuai Ren, Mukai Li, Yazheng Yang, Jingjing Xu, Xu Sun, Lingpeng Kong, Qi Liu   
 [[arxiv](https://arxiv.org/pdf/2306.04387.pdf), [dataset](https://huggingface.co/datasets/MMInstruction/M3IT)]
 
 
-* **A Survey for In-context Learning**  
-  Qingxiu Dong, **Lei Li**, Damai Dai, Ce Zheng, Zhiyong Wu, Baobao Chang, Xu Sun, Jingjing Xu, Lei Li, Zhifang Sui  
-  [[arxiv](https://arxiv.org/pdf/2301.00234.pdf), [paper list](https://github.com/dqxiu/ICL_PaperList)]
-
-
 
 Selected Publication
 ======
+
+
+* **VLFeedback: A Large-Scale AI Feedback Dataset for Large Vision-Language Models Alignment**    
+**Lei Li #**, Zhihui Xie #, Mukai Li, Shunian Chen, Peiyi Wang, Liang Chen, Yazheng Yang, Benyou Wang, Lingpeng Kong, Qi Liu    
+ ***EMNLP 2024*** [[project page](https://vlf-silkie.github.io/)]
+
+
+* **A Survey for In-context Learning**  
+  Qingxiu Dong, **Lei Li**, Damai Dai, Ce Zheng, Jingyuan Ma, Rui Li, Heming Xia, Jingjing Xu, Zhiyong Wu, Baobao Chang, Xu Sun, Lei Li, Zhifang Sui
+  ***EMNLP 2024*** [[arxiv](https://arxiv.org/pdf/2301.00234.pdf), [paper list](https://github.com/dqxiu/ICL_PaperList)]
+
 
 * **VITATECS: A Diagnostic Dataset for Temporal Concept Understanding of Video-Language Models**   
   Shicheng Li, **Lei Li**, Shuhuai Ren, Yuanxin Liu, Yi Liu, Rundong Gao, Xu Sun, Lu Hou  
@@ -118,6 +121,13 @@ Academic Service
 - **Teaching Assistant**: 
   - Machine Learning in Trading and Finance (2023 Fall, HKU)
   - Computational Linguistics (2021 Fall, PKU)
+
+
+Invited Talks
+=====
+- [2023/12] [NICE-NLP](https://nice-nlp.github.io/), **Can Large Language Models Understand Physical Concepts?**, [Video (in Chinese)](https://www.bilibili.com/video/BV1Mi4y1z7q2)
+
+- [2023/03] [LCC-Lab, Beijing Language and Culture University](https://blcu-lcclab.cn/), **A Survey on In-context Learning Survey**, [Video (in Chinese)](https://www.bilibili.com/video/BV1aT411k7TF)
 
 
 Awards
