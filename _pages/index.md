@@ -60,7 +60,7 @@ Selected Publication
 
 
 * **A Survey for In-context Learning**  
-  Qingxiu Dong, **Lei Li**, Damai Dai, Ce Zheng, Jingyuan Ma, Rui Li, Heming Xia, Jingjing Xu, Zhiyong Wu, Baobao Chang, Xu Sun, Lei Li, Zhifang Sui 
+  Qingxiu Dong, **Lei Li**, Damai Dai, Ce Zheng, Jingyuan Ma, Rui Li, Heming Xia, Jingjing Xu, Zhiyong Wu, Baobao Chang, Xu Sun, Lei Li, Zhifang Sui   
   ***EMNLP 2024*** [[arxiv](https://arxiv.org/pdf/2301.00234.pdf), [paper list](https://github.com/dqxiu/ICL_PaperList)]
 
 
@@ -125,9 +125,14 @@ Academic Service
 
 Invited Talks
 =====
-- [2023/12] [NICE-NLP](https://nice-nlp.github.io/), **Can Large Language Models Understand Physical Concepts?**, [Video (in Chinese)](https://www.bilibili.com/video/BV1Mi4y1z7q2)
+- [2024/10] [AI TIME](https://space.bilibili.com/503316308), **VLFeedback: A Large-Scale AI Feedback Dataset for Large Vision-Language Model Alignment**   
+  [Video (Coming soon..)]()
 
-- [2023/03] [LCC-Lab, Beijing Language and Culture University](https://blcu-lcclab.cn/), **A Survey on In-context Learning Survey**, [Video (in Chinese)](https://www.bilibili.com/video/BV1aT411k7TF)
+- [2023/12] [NICE-NLP](https://nice-nlp.github.io/), **Can Large Language Models Understand Physical Concepts?**   
+  [Video (in Chinese)](https://www.bilibili.com/video/BV1Mi4y1z7q2)
+
+- [2023/03] [LCC-Lab, Beijing Language and Culture University](https://blcu-lcclab.cn/), **A Survey on In-context Learning Survey**  
+  [Video (in Chinese)](https://www.bilibili.com/video/BV1aT411k7TF)
 
 
 Awards
