@@ -42,6 +42,13 @@ Internship
 Preprints
 ======
 (#: Equal Contribution)
+* **VLRewardBench: A Challenging Benchmark for Vision-Language Generative Reward Models**  
+**Lei Li #**, Yuancheng Wei #, Zhihui Xie #, Xuqing Yang #, Yifan Song, Peiyi Wang, Chenxin An, Tianyu Liu, Sujian Li, Bill Yuchen Lin, Lingpeng Kong, Qi Liu   
+[[arxiv](https://arxiv.org/abs/2411.17451), [project page](https://vl-rewardbench.github.io/)]
+
+* **Temporal Reasoning Transfer from Text to Video**   
+**Lei Li #**, Yuanxin Liu #, Linli Yao, Peiyuan Zhang, Chenxin An, Lean Wang, Xu Sun, Lingpeng Kong, Qi Liu  
+[[arxiv](https://arxiv.org/abs/2410.06166), [project page](https://video-t3.github.io/)]
 
 
 * **M3IT: A Large-Scale Dataset towards Multi-Modal Multilingual Instruction Tuning**   
