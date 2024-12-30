@@ -11,10 +11,9 @@ I am happy to discuss potential collaboration opportunities, feel free to reach 
 
 News
 =====
-* [2024/09] Two papers (VLFeedback and ICL Survey] are accepted by EMNLP 2024 Main Conference! 
+* [2024/10] Our [FairEval](https://aclanthology.org/2024.acl-long.511/) is selected as the [Most Influencial Paper of ACL 2024](https://www.paperdigest.org/2024/09/most-influential-acl-papers-2024-09/)!👑👑
 * [2024/07] [VITATECS](https://arxiv.org/abs/2311.17404) for benchmarking temporal understanding of VideoLLMs, got accepted by ECCV 2024!  
 * [2024/06] Checkout our [Video-MME](https://video-mme.github.io/home_page.html), the first-ever comprehensive benchmark for Video-LLMs.
-* [2024/05] Five papers got accepted by ACL 2024, see you at :thailand:!
 * [2024/02] Checkout our [Reka Flash and Reka Core](https://publications.reka.ai/reka-core-tech-report.pdf), first-tier mutlimodal LLMs!
 * [2023/12] :boom:Our paper *[Label Words are Anchors](https://aclanthology.org/2023.emnlp-main.609/)* won the <span style="color:red">**Best Long Paper Award**</span> of EMNLP 2023! 
 
@@ -124,7 +123,7 @@ Selected Publication
 Academic Service
 =====
 - **Area Chair/Action Editor**: ACL ARR 2024 
-- **Reviewer/Program Committee**: IJCV, ACM CSUR, NeuIPS 2024, COLM 2024, ICML 2024, CVPR 2024, ICLR 2024, NeurIPS 2023 (**Top Reviewer Award**), ACL(2020 - 2023), EMNLP (2019 - 2023)
+- **Reviewer/Program Committee**: IJCV, ACM CSUR, NeuIPS 2024, COLM 2024, ICML (2024 - 2025), CVPR (2024 - 2025), ICLR (2024 - 2025), NeurIPS 2023 (**Top Reviewer Award**), ACL (2020 - 2023), EMNLP (2019 - 2023)
 - **Teaching Assistant**: 
   - Machine Learning in Trading and Finance (2023 Fall, HKU)
   - Computational Linguistics (2021 Fall, PKU)
@@ -133,7 +132,7 @@ Academic Service
 Invited Talks
 =====
 - [2024/10] [AI TIME](https://space.bilibili.com/503316308), **VLFeedback: A Large-Scale AI Feedback Dataset for Large Vision-Language Model Alignment**   
-  [Video (Coming soon..)]()
+  [Video (in Chinese)](https://www.bilibili.com/video/BV1FDyBYbEw1)
 
 - [2023/12] [NICE-NLP](https://nice-nlp.github.io/), **Can Large Language Models Understand Physical Concepts?**   
   [Video (in Chinese)](https://www.bilibili.com/video/BV1Mi4y1z7q2)
