@@ -11,11 +11,10 @@ I am happy to discuss potential collaboration opportunities, feel free to reach 
 
 News
 =====
+* [2025/02] VL-RewardBench and Video-MME got accepted by CVPR 2025! 
 * [2025/01] Four paper got accepeted by ICLR 2025, see you in 🇸🇬!
 * [2025/01] [ImgTrojan](https://arxiv.org/abs/2403.02910) got accepted by NAACL 2025, congrats to Xijia and Chris!
 * [2024/10] Our [FairEval](https://aclanthology.org/2024.acl-long.511/) is selected as the [Most Influencial Paper of ACL 2024](https://www.paperdigest.org/2024/09/most-influential-acl-papers-2024-09/)!👑👑
-* [2024/07] [VITATECS](https://arxiv.org/abs/2311.17404) for benchmarking temporal understanding of VideoLLMs, got accepted by ECCV 2024!  
-* [2024/06] Checkout our [Video-MME](https://video-mme.github.io/home_page.html), the first-ever comprehensive benchmark for Video-LLMs.
 * [2024/02] Checkout our [Reka Flash and Reka Core](https://publications.reka.ai/reka-core-tech-report.pdf), first-tier mutlimodal LLMs!
 * [2023/12] :boom:Our paper *[Label Words are Anchors](https://aclanthology.org/2023.emnlp-main.609/)* won the <span style="color:red">**Best Long Paper Award**</span> of EMNLP 2023! 
 
@@ -30,33 +29,26 @@ Education
 
 Internship
 ======
-* [Reka AI](https://reka.ai/), Multi-modal LLM R&D Intern, July 2023 - Now  
-* Shanghai AI Lab, Research Intern, July 2022 - June 2023.
-
+* [Reka AI](https://reka.ai/), Multi-modal LLM R&D Intern, Jul. 2023 - Dec. 2024
+* Shanghai AI Lab, Research Intern, Jul. 2022 - Jun. 2023.
   Mentor: Dr. [Jingjing Xu](https://jingjingxu.com/)
-* Toutiao Search, Search Algorithm Intern, Dec.2021 - June 2022. 
 * Wechat AI, Research Intern, April 2020 - Nov. 2021. 
-
   Mentor: Dr. [Yankai Lin](https://linyankai.github.io/) and Dr. [Peng Li](https://www.lpeng.net/)
-
-
-Preprints
-======
-(#: Equal Contribution)
-* **VLRewardBench: A Challenging Benchmark for Vision-Language Generative Reward Models**  
-**Lei Li #**, Yuancheng Wei #, Zhihui Xie #, Xuqing Yang #, Yifan Song, Peiyi Wang, Chenxin An, Tianyu Liu, Sujian Li, Bill Yuchen Lin, Lingpeng Kong, Qi Liu   
-[[arxiv](https://arxiv.org/abs/2411.17451), [project page](https://vl-rewardbench.github.io/)]
-
-* **M3IT: A Large-Scale Dataset towards Multi-Modal Multilingual Instruction Tuning**   
-**Lei Li**, Yuwei Yin, Shicheng Li, Liang Chen, Peiyi Wang, Shuhuai Ren, Mukai Li, Yazheng Yang, Jingjing Xu, Xu Sun, Lingpeng Kong, Qi Liu   
-[[arxiv](https://arxiv.org/pdf/2306.04387.pdf), [dataset](https://huggingface.co/datasets/MMInstruction/M3IT)]
-
 
 Selected Publication
 ======
 
+
 Multimodal LLMs 
 ------
+
+*<span style="font-size: 0.5em;">(#: Equal Contribution)</span>*
+
+
+* **VLRewardBench: A Challenging Benchmark for Vision-Language Generative Reward Models**  
+**Lei Li #**, Yuancheng Wei #, Zhihui Xie #, Xuqing Yang #, Yifan Song, Peiyi Wang, Chenxin An, Tianyu Liu, Sujian Li, Bill Yuchen Lin, Lingpeng Kong, Qi Liu   
+***CVPR 2025*** [[arxiv](https://arxiv.org/abs/2411.17451), [project page](https://vl-rewardbench.github.io/)]
+
 * **Temporal Reasoning Transfer from Text to Video**   
 **Lei Li #**, Yuanxin Liu #, Linli Yao, Peiyuan Zhang, Chenxin An, Lean Wang, Xu Sun, Lingpeng Kong, Qi Liu  
 ***ICLR 2025*** [[arxiv](https://arxiv.org/abs/2410.06166), [project page](https://video-t3.github.io/)]
@@ -82,6 +74,16 @@ Multimodal LLMs
 * **Can Language Models Understand Physical Concepts?**  
   **Lei Li**, Jingjing Xu, Qingxiu Dong, Ce Zheng, Qi Liu, Lingpeng Kong, Xu Sun  
   ***EMNLP 2023*** [[arxiv](https://arxiv.org/pdf/2305.14057.pdf), [dataset](https://github.com/TobiasLee/VEC)]
+
+
+
+
+
+
+* **M3IT: A Large-Scale Dataset towards Multi-Modal Multilingual Instruction Tuning**   
+**Lei Li**, Yuwei Yin, Shicheng Li, Liang Chen, Peiyi Wang, Shuhuai Ren, Mukai Li, Yazheng Yang, Jingjing Xu, Xu Sun, Lingpeng Kong, Qi Liu   
+[[arxiv](https://arxiv.org/pdf/2306.04387.pdf), [dataset](https://huggingface.co/datasets/MMInstruction/M3IT)]
+
 
 
 Emerging Capabilities of LLMs
