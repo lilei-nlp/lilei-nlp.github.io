@@ -11,7 +11,7 @@ I am happy to discuss potential collaboration opportunities, feel free to reach 
 
 News
 =====
-* [2025/02] VL-RewardBench and Video-MME got accepted by CVPR 2025! 
+* [2025/02] VL-RewardBench and Video-MME got accepted by CVPR 2025 and both got Highlight (Top 3%) ! 
 * [2025/01] Four paper got accepeted by ICLR 2025, see you in 🇸🇬!
 * [2025/01] [ImgTrojan](https://arxiv.org/abs/2403.02910) got accepted by NAACL 2025, congrats to Xijia and Chris!
 * [2024/10] Our [FairEval](https://aclanthology.org/2024.acl-long.511/) is selected as the [Most Influencial Paper of ACL 2024](https://www.paperdigest.org/2024/09/most-influential-acl-papers-2024-09/)!👑👑
@@ -47,7 +47,7 @@ Multimodal LLMs
 
 * **VLRewardBench: A Challenging Benchmark for Vision-Language Generative Reward Models**  
 **Lei Li #**, Yuancheng Wei #, Zhihui Xie #, Xuqing Yang #, Yifan Song, Peiyi Wang, Chenxin An, Tianyu Liu, Sujian Li, Bill Yuchen Lin, Lingpeng Kong, Qi Liu   
-***CVPR 2025*** [[arxiv](https://arxiv.org/abs/2411.17451), [project page](https://vl-rewardbench.github.io/)]
+***CVPR 2025 <span style="color:red">(Highlight, Top 3%)</span>*** [[arxiv](https://arxiv.org/abs/2411.17451), [project page](https://vl-rewardbench.github.io/)]
 
 * **Temporal Reasoning Transfer from Text to Video**   
 **Lei Li #**, Yuanxin Liu #, Linli Yao, Peiyuan Zhang, Chenxin An, Lean Wang, Xu Sun, Lingpeng Kong, Qi Liu  
