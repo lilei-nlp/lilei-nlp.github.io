@@ -3,19 +3,26 @@ permalink: /
 title: "About"
 ---
 
-Hi, I am a PhD student at [HKU-NLP](https://hkunlp.github.io/) group, co-supervised by Prof. [Lingpeng Kong](https://ikekonglp.github.io/) and Prof. [Qi Liu](https://leuchine.github.io/). Previously, I completed my master's degree at Peking University as a member of LANCO, advised by Prof. [Xu Sun](https://xusun26.github.io/) and my bachelor's degree at Xidian University.
+I am a PhD student in the [HKU-NLP](https://hkunlp.github.io/) group, co-supervised by Prof. [Lingpeng Kong](https://ikekonglp.github.io/) and Prof. [Qi Liu](https://leuchine.github.io/). I completed my master's degree at Peking University advised by Prof. [Xu Sun](https://xusun26.github.io/) and my bachelor's degree at Xidian University.
 
-My current research interests lie in developing multi-modal LLMs and understanding the emeging capabilities of LLMs. 
 
-I am happy to discuss potential collaboration opportunities, feel free to reach out! 
+My research focuses on:
+
+(i) developing frontier multimodal large language models (MiMo-VL, Reka Flash);
+
+(ii) understanding the fundamental mechanisms of LLMs and MLLMs.
+
+
+I'm always happy to discuss potential collaborations—feel free to reach out!
+
 
 News
 =====
+* [2025/08] Two paper got accepted by EMNLP 2025 and one paper got accepted by ACM MM 2025! See you in Suzhou :)  
 * [2025/05] Two papers got accepted by ACL 2025 and one paper got accepted by ICML 2025 ! 
 * [2025/02] VL-RewardBench and Video-MME got accepted by CVPR 2025 and both got Highlight (Top 3%) ! 
 * [2025/01] Four paper got accepeted by ICLR 2025, see you in 🇸🇬!
 * [2024/10] Our [FairEval](https://aclanthology.org/2024.acl-long.511/) is selected as the [Most Influencial Paper of ACL 2024](https://www.paperdigest.org/2024/09/most-influential-acl-papers-2024-09/)!👑👑
-* [2024/02] Checkout our [Reka Flash and Reka Core](https://publications.reka.ai/reka-core-tech-report.pdf), first-tier mutlimodal LLMs!
 * [2023/12] :boom:Our paper *[Label Words are Anchors](https://aclanthology.org/2023.emnlp-main.609/)* won the <span style="color:red">**Best Long Paper Award**</span> of EMNLP 2023! 
 
 
@@ -29,6 +36,7 @@ Education
 
 Internship
 ======
+* [Xiaomi LLM-Core Team](https://huggingface.co/XiaomiMiMo), Core Member, Jan. 2025 - Now 
 * [Reka AI](https://reka.ai/), Multi-modal LLM R&D Intern, Jul. 2023 - Dec. 2024
 * Shanghai AI Lab, Research Intern, Jul. 2022 - Jun. 2023.
   Mentor: Dr. [Jingjing Xu](https://jingjingxu.com/)
@@ -45,7 +53,7 @@ Multimodal LLMs
 *<span style="font-size: 0.5em;">(#: Equal Contribution)</span>*
 
 
-* **VLRewardBench: A Challenging Benchmark for Vision-Language Generative Reward Models**  
+* **VL-RewardBench: A Challenging Benchmark for Vision-Language Generative Reward Models**  
 **Lei Li #**, Yuancheng Wei #, Zhihui Xie #, Xuqing Yang #, Yifan Song, Peiyi Wang, Chenxin An, Tianyu Liu, Sujian Li, Bill Yuchen Lin, Lingpeng Kong, Qi Liu   
 ***CVPR 2025 <span style="color:red">(Highlight, Top 3%)</span>*** [[arxiv](https://arxiv.org/abs/2411.17451), [project page](https://vl-rewardbench.github.io/)]
 
@@ -74,8 +82,6 @@ Multimodal LLMs
 * **Can Language Models Understand Physical Concepts?**  
   **Lei Li**, Jingjing Xu, Qingxiu Dong, Ce Zheng, Qi Liu, Lingpeng Kong, Xu Sun  
   ***EMNLP 2023*** [[arxiv](https://arxiv.org/pdf/2305.14057.pdf), [dataset](https://github.com/TobiasLee/VEC)]
-
-
 
 
 
@@ -144,9 +150,10 @@ Knowledge-Enhanced NLP
 
 Academic Service
 =====
-- **Area Chair/Action Editor**: ACL ARR 2024 
-- **Reviewer/Program Committee**: IJCV, ACM CSUR, NeuIPS 2024, COLM 2024, ICML (2024 - 2025), CVPR (2024 - 2025), ICLR (2024 - 2025), NeurIPS 2023 (**Top Reviewer Award**), ACL (2020 - 2023), EMNLP (2019 - 2023)
+- **Area Chair / Action Editor**: ACL ARR (2024 - Now)
+- **Reviewer / Program Committee**: IJCV, ACM CSUR, TASLP, AAAI 2025, NeuIPS (2023 - ), COLM (2024 - ), ICML (2024 - ), CVPR (2024 - ), ICLR (2024 - Now), ACL (2020 - 2023), EMNLP (2019 - 2023)
 - **Teaching Assistant**: 
+  - Smart phone apps development (2024, HKU)
   - Machine Learning in Trading and Finance (2023 Fall, HKU)
   - Computational Linguistics (2021 Fall, PKU)
 
