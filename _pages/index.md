@@ -54,6 +54,11 @@ Multimodal LLMs
 **Lei Li #**, Yuancheng Wei #, Zhihui Xie #, Xuqing Yang #, Yifan Song, Peiyi Wang, Chenxin An, Tianyu Liu, Sujian Li, Bill Yuchen Lin, Lingpeng Kong, Qi Liu   
 ***CVPR 2025 <span style="color:red">(Highlight, Top 3%)</span>*** [[arxiv](https://arxiv.org/abs/2411.17451), [project page](https://vl-rewardbench.github.io/)]
 
+* **Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis**  
+Chaoyou Fu, Yuhan Dai, Yongdong Luo, **Lei Li**, Shuhuai Ren, Renrui Zhang et al.    
+***CVPR 2025 <span style="color:red">(Highlight, Top 3%, [Most Influencial Paper of CVPR 2025](https://resources.paperdigest.org/2025/09/most-influential-cvpr-papers-2025-09-version/))</span>*** [[arxiv](https://arxiv.org/abs/2405.21075), [project page](https://video-mme.github.io/home_page.html)]
+
+
 
 * **Temporal Reasoning Transfer from Text to Video**   
 **Lei Li #**, Yuanxin Liu #, Linli Yao, Peiyuan Zhang, Chenxin An, Lean Wang, Xu Sun, Lingpeng Kong, Qi Liu  
