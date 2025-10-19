@@ -5,12 +5,9 @@ title: "About"
 
 I am a PhD student in the [HKU-NLP](https://hkunlp.github.io/) group, co-supervised by Prof. [Lingpeng Kong](https://ikekonglp.github.io/) and Prof. [Qi Liu](https://leuchine.github.io/). I completed my master's degree at Peking University advised by Prof. [Xu Sun](https://xusun26.github.io/) and my bachelor's degree at Xidian University.
 
-
 My research focuses on:
-
-(i) developing frontier multimodal large language models (MiMo-VL, Reka Flash);
-
-(ii) understanding the fundamental mechanisms of LLMs and MLLMs.
+(i) developing frontier multimodal large language models ([MiMo-VL](https://arxiv.org/abs/2506.03569), [Reka Flash](https://arxiv.org/abs/2404.12387));
+(ii) understanding the fundamental mechanisms of LLMs and MLLMs ([In-context Learning](https://arxiv.org/abs/2305.14160), [LLMs-as-a-Judge](https://arxiv.org/abs/2305.17926)).
 
 
 I'm always happy to discuss potential collaborations—feel free to reach out!
@@ -57,6 +54,7 @@ Multimodal LLMs
 **Lei Li #**, Yuancheng Wei #, Zhihui Xie #, Xuqing Yang #, Yifan Song, Peiyi Wang, Chenxin An, Tianyu Liu, Sujian Li, Bill Yuchen Lin, Lingpeng Kong, Qi Liu   
 ***CVPR 2025 <span style="color:red">(Highlight, Top 3%)</span>*** [[arxiv](https://arxiv.org/abs/2411.17451), [project page](https://vl-rewardbench.github.io/)]
 
+
 * **Temporal Reasoning Transfer from Text to Video**   
 **Lei Li #**, Yuanxin Liu #, Linli Yao, Peiyuan Zhang, Chenxin An, Lean Wang, Xu Sun, Lingpeng Kong, Qi Liu  
 ***ICLR 2025*** [[arxiv](https://arxiv.org/abs/2410.06166), [project page](https://video-t3.github.io/)]
@@ -85,7 +83,6 @@ Multimodal LLMs
 
 
 
-
 * **M3IT: A Large-Scale Dataset towards Multi-Modal Multilingual Instruction Tuning**   
 **Lei Li**, Yuwei Yin, Shicheng Li, Liang Chen, Peiyi Wang, Shuhuai Ren, Mukai Li, Yazheng Yang, Jingjing Xu, Xu Sun, Lingpeng Kong, Qi Liu   
 [[arxiv](https://arxiv.org/pdf/2306.04387.pdf), [dataset](https://huggingface.co/datasets/MMInstruction/M3IT)]
@@ -98,12 +95,12 @@ Emerging Capabilities of LLMs
 
 * **A Survey for In-context Learning**  
   Qingxiu Dong, **Lei Li**, Damai Dai, Ce Zheng, Jingyuan Ma, Rui Li, Heming Xia, Jingjing Xu, Zhiyong Wu, Baobao Chang, Xu Sun, Lei Li, Zhifang Sui   
-  ***EMNLP 2024*** [[arxiv](https://arxiv.org/pdf/2301.00234.pdf), [paper list](https://github.com/dqxiu/ICL_PaperList)]
+  ***EMNLP 2024, [Most Influencial Papers of EMNLP 2024](https://resources.paperdigest.org/2025/03/most-influential-emnlp-papers-2025-03-version/)*** [[arxiv](https://arxiv.org/pdf/2301.00234.pdf), [paper list](https://github.com/dqxiu/ICL_PaperList)]
 
 
 * **Large Language Models are not Fair Evaluators**  
   Peiyi Wang, **Lei Li**, Liang Chen, Zefan Cai, Dawei Zhu, Binghuai Lin, Yunbo Cao, Lingpeng Kong, Qi Liu, Tianyu Liu, Zhifang Sui   
-  ***ACL 2024***  <span style="color:red">**(Most Influencial Paper of ACL 2024)**</span>[[arxiv](https://arxiv.org/abs/2305.17926), [code](https://github.com/i-Eval/FairEval)]
+  ***ACL 2024***  <span style="color:red">**([Most Influencial Paper of ACL 2024](https://resources.paperdigest.org/2025/03/most-influential-acl-papers-2025-03-version/))**</span>[[arxiv](https://arxiv.org/abs/2305.17926), [code](https://github.com/i-Eval/FairEval)]
 
 
 * **Label Words are Anchors: An Information Flow Perspective for Understanding In-Context Learning**  
