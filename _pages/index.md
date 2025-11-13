@@ -15,10 +15,10 @@ I'm always happy to discuss potential collaborations—feel free to reach out!
 
 News
 =====
-* [2025/08] Two paper got accepted by EMNLP 2025 and one paper got accepted by ACM MM 2025! See you in Suzhou :)  
-* [2025/05] Two papers got accepted by ACL 2025 and one paper got accepted by ICML 2025 ! 
+* [2025/11] One paper accepted at AAAI 2026. Received <span style="color: #d4af37; font-weight: bold;">Outstanding Area Chair Award</span> at EMNLP 2025! 🏅
+* [2025/08] Two paper accepted by EMNLP 2025 and one by ACM MM 2025!
 * [2025/02] VL-RewardBench and Video-MME got accepted by CVPR 2025 and both got Highlight (Top 3%) ! 
-* [2025/01] Four paper got accepeted by ICLR 2025, see you in 🇸🇬!
+* [2025/01] Four paper accepeted by ICLR 2025, see you in 🇸🇬!
 * [2024/10] Our [FairEval](https://aclanthology.org/2024.acl-long.511/) is selected as the [Most Influencial Paper of ACL 2024](https://www.paperdigest.org/2024/09/most-influential-acl-papers-2024-09/)!👑👑
 * [2023/12] :boom:Our paper *[Label Words are Anchors](https://aclanthology.org/2023.emnlp-main.609/)* won the <span style="color:red">**Best Long Paper Award**</span> of EMNLP 2023! 
 
@@ -174,6 +174,7 @@ Invited Talks
 
 Awards
 ======
+* Outstanding Area Chair, EMNLP, 2025 
 * Best Long Paper Award, EMNLP, 2023 
 * National Scholarship, Peking University, 2021
 * National Scholarship, Xidian University, 2019 
