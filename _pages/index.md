@@ -3,35 +3,32 @@ permalink: /
 title: "About"
 ---
 
-I am a PhD student in the [HKU-NLP](https://hkunlp.github.io/) group, co-supervised by Prof. [Lingpeng Kong](https://ikekonglp.github.io/) and Prof. [Qi Liu](https://leuchine.github.io/). I completed my master's degree at Peking University, advised by Prof. [Xu Sun](https://xusun26.github.io/) and my bachelor's degree at Xidian University.
+I am a PhD student in the [HKU-NLP](https://hkunlp.github.io/) group, co-supervised by Prof. [Lingpeng Kong](https://ikekonglp.github.io/) and Prof. [Qi Liu](https://leuchine.github.io/). I completed my master's degree at Peking University advised by Prof. [Xu Sun](https://xusun26.github.io/) and my bachelor's degree at Xidian University.
 
 My research focuses on:
-(i) developing frontier large language models ([MiMo-V2-Flash](https://github.com/XiaomiMiMo/MiMo-V2-Flash), [MiMo-VL](https://arxiv.org/abs/2506.03569), [Reka Flash](https://arxiv.org/abs/2404.12387));
+(i) developing frontier multimodal large language models ([MiMo-VL](https://arxiv.org/abs/2506.03569), [Reka Flash](https://arxiv.org/abs/2404.12387));
 (ii) understanding the fundamental mechanisms of LLMs and MLLMs ([In-context Learning](https://arxiv.org/abs/2305.14160), [LLMs-as-a-Judge](https://arxiv.org/abs/2305.17926)).
 
 
 I'm always happy to discuss potential collaborations—feel free to reach out!
 
 
-News
-=====
-* [2026/01] Honored to receive the inaugural **[Tencent Qingyun Scholarship](https://join.qq.com/scholarship.html)** (15 awardees per year nationwide)! 🏅
-* [2025/11] One paper accepted at AAAI 2026. Received <span style="color: #d4af37; font-weight: bold;">Outstanding Area Chair Award</span> at EMNLP 2025! 🏅
-* [2025/02] VL-RewardBench and Video-MME got accepted by CVPR 2025 and both got Highlight (Top 3%) ! 
-* [2024/10] Our [FairEval](https://aclanthology.org/2024.acl-long.511/) is selected as the [Most Influencial Paper of ACL 2024](https://www.paperdigest.org/2024/09/most-influential-acl-papers-2024-09/)!👑👑
-* [2023/12] :boom:Our paper *[Label Words are Anchors](https://aclanthology.org/2023.emnlp-main.609/)* won the <span style="color:red">**Best Long Paper Award**</span> of EMNLP 2023! 
+## News
+* [2025/11] One paper accepted at AAAI 2026. Received <span style="color: #d4af37; font-weight: bold;">Outstanding Area Chair Award</span> at EMNLP 2025!
+* [2025/08] Two papers accepted by EMNLP 2025 and one by ACM MM 2025!
+* [2025/02] VL-RewardBench and Video-MME got accepted by CVPR 2025 and both got Highlight (Top 3%)!
+* [2025/01] Four papers accepted by ICLR 2025, see you in Singapore!
+* [2024/10] Our [FairEval](https://aclanthology.org/2024.acl-long.511/) is selected as the [Most Influential Paper of ACL 2024](https://www.paperdigest.org/2024/09/most-influential-acl-papers-2024-09/)!
+* [2023/12] Our paper *[Label Words are Anchors](https://aclanthology.org/2023.emnlp-main.609/)* won the <span style="color:red">**Best Long Paper Award**</span> of EMNLP 2023!
 
 
-
-Education
-=====
-* PhD Student, The Univeristy of Hong Kong, Sept. 2023 - Now.
+## Education
+* PhD Student, The University of Hong Kong, Sept. 2023 - Now.
 * MSc in Computer Science, Peking University, Sept. 2020 - July 2023.
-* BE in Software Engineering, Xidian University Sept. 2016 - Jul. 2020.
+* BE in Software Engineering, Xidian University, Sept. 2016 - Jul. 2020.
 
 
-Internship
-======
+## Internship
 * [Xiaomi LLM-Core Team](https://huggingface.co/XiaomiMiMo), Core Member, Jan. 2025 - Now 
 * [Reka AI](https://reka.ai/), Multi-modal LLM R&D Intern, Jul. 2023 - Dec. 2024
 * Shanghai AI Lab, Research Intern, Jul. 2022 - Jun. 2023.
@@ -39,12 +36,9 @@ Internship
 * Wechat AI, Research Intern, April 2020 - Nov. 2021. 
   Mentor: Dr. [Yankai Lin](https://linyankai.github.io/) and Dr. [Peng Li](https://www.lpeng.net/)
 
-Selected Publication
-======
+## Selected Publication
 
-
-Multimodal LLMs 
-------
+### Multimodal LLMs
 
 *<span style="font-size: 0.5em;">(#: Equal Contribution)</span>*
 
@@ -55,7 +49,7 @@ Multimodal LLMs
 
 * **Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis**  
 Chaoyou Fu, Yuhan Dai, Yongdong Luo, **Lei Li**, Shuhuai Ren, Renrui Zhang et al.    
-***CVPR 2025 <span style="color:red">(Highlight, Top 3%, [Most Influencial Paper of CVPR 2025](https://resources.paperdigest.org/2025/09/most-influential-cvpr-papers-2025-09-version/))</span>*** [[arxiv](https://arxiv.org/abs/2405.21075), [project page](https://video-mme.github.io/home_page.html)]
+***CVPR 2025 <span style="color:red">(Highlight, Top 3%, [Most Influential Paper of CVPR 2025](https://resources.paperdigest.org/2025/09/most-influential-cvpr-papers-2025-09-version/))</span>*** [[arxiv](https://arxiv.org/abs/2405.21075), [project page](https://video-mme.github.io/home_page.html)]
 
 
 
@@ -86,23 +80,17 @@ Chaoyou Fu, Yuhan Dai, Yongdong Luo, **Lei Li**, Shuhuai Ren, Renrui Zhang et al
   ***EMNLP 2023*** [[arxiv](https://arxiv.org/pdf/2305.14057.pdf), [dataset](https://github.com/TobiasLee/VEC)]
 
 
-* **M3IT: A Large-Scale Dataset towards Multi-Modal Multilingual Instruction Tuning**   
-**Lei Li**, Yuwei Yin, Shicheng Li, Liang Chen, Peiyi Wang, Shuhuai Ren, Mukai Li, Yazheng Yang, Jingjing Xu, Xu Sun, Lingpeng Kong, Qi Liu   
-[[arxiv](https://arxiv.org/pdf/2306.04387.pdf), [dataset](https://huggingface.co/datasets/MMInstruction/M3IT)]
+### Emerging Capabilities of LLMs
 
-
-
-Emerging Capabilities of LLMs
-------
 
 * **A Survey for In-context Learning**  
   Qingxiu Dong, **Lei Li**, Damai Dai, Ce Zheng, Jingyuan Ma, Rui Li, Heming Xia, Jingjing Xu, Zhiyong Wu, Baobao Chang, Xu Sun, Lei Li, Zhifang Sui   
-  ***EMNLP 2024, [Most Influencial Papers of EMNLP 2024](https://resources.paperdigest.org/2025/03/most-influential-emnlp-papers-2025-03-version/)*** [[arxiv](https://arxiv.org/pdf/2301.00234.pdf), [paper list](https://github.com/dqxiu/ICL_PaperList)]
+  ***EMNLP 2024, [Most Influential Papers of EMNLP 2024](https://resources.paperdigest.org/2025/03/most-influential-emnlp-papers-2025-03-version/)*** [[arxiv](https://arxiv.org/pdf/2301.00234.pdf), [paper list](https://github.com/dqxiu/ICL_PaperList)]
 
 
 * **Large Language Models are not Fair Evaluators**  
   Peiyi Wang, **Lei Li**, Liang Chen, Zefan Cai, Dawei Zhu, Binghuai Lin, Yunbo Cao, Lingpeng Kong, Qi Liu, Tianyu Liu, Zhifang Sui   
-  ***ACL 2024***  <span style="color:red">**([Most Influencial Paper of ACL 2024](https://resources.paperdigest.org/2025/03/most-influential-acl-papers-2025-03-version/))**</span>[[arxiv](https://arxiv.org/abs/2305.17926), [code](https://github.com/i-Eval/FairEval)]
+  ***ACL 2024***  <span style="color:red">**([Most Influential Paper of ACL 2024](https://resources.paperdigest.org/2025/03/most-influential-acl-papers-2025-03-version/))**</span>[[arxiv](https://arxiv.org/abs/2305.17926), [code](https://github.com/i-Eval/FairEval)]
 
 
 * **Label Words are Anchors: An Information Flow Perspective for Understanding In-Context Learning**  
@@ -110,8 +98,8 @@ Emerging Capabilities of LLMs
   ***EMNLP 2023***  <span style="color:red">**(Best Long Paper Award)**</span> [[arxiv](https://arxiv.org/pdf/2305.14160.pdf), [code](https://github.com/lancopku/label-words-are-anchors)] 
 
 
-Efficient Pre-trained Language Models
-------
+### Efficient Pre-trained Language Models
+
 
 * **Distributional Correlation--Aware Knowledge Distillation for Stock Trading Volume Prediction**   
   **Lei Li**, Zhiyuan Zhang, Ruihan Bao, Keiko Harimoto, Xu Sun   
@@ -132,8 +120,7 @@ Efficient Pre-trained Language Models
   ***Findings of EMNLP 2021*** [[url](https://aclanthology.org/2021.findings-emnlp.43), [code](https://github.com/lancopku/cascadebert)]
 
 
-Knowledge-Enhanced NLP
-------
+### Knowledge-Enhanced NLP
 
 
 * **Alleviating the Knowledge-Language Inconsistency: A Study for Deep Commonsense Knowledge**  
@@ -145,18 +132,24 @@ Knowledge-Enhanced NLP
   ***ACL 2019***, [[url](https://aclanthology.org/P19-1193/)] 
 
 
-Academic Service
-=====
+
+### Preprints
+
+* **M3IT: A Large-Scale Dataset towards Multi-Modal Multilingual Instruction Tuning**  
+**Lei Li**, Yuwei Yin, Shicheng Li, Liang Chen, Peiyi Wang, Shuhuai Ren, Mukai Li, Yazheng Yang, Jingjing Xu, Xu Sun, Lingpeng Kong, Qi Liu  
+[[arxiv](https://arxiv.org/pdf/2306.04387.pdf), [dataset](https://huggingface.co/datasets/MMInstruction/M3IT)]
+
+
+## Academic Service
 - **Area Chair / Action Editor**: ACL ARR (2024 - Now)
-- **Reviewer / Program Committee**: TPAMI, IJCV, ACM CSUR, TASLP, AAAI 2025, NeuIPS (2023 - ), COLM (2024 - ), ICML (2024 - ), CVPR (2024 - ), ICLR (2024 - Now), ACL (2020 - 2023), EMNLP (2019 - 2023)
+- **Reviewer / Program Committee**: IJCV, ACM CSUR, TASLP, AAAI 2025, NeuIPS (2023 - ), COLM (2024 - ), ICML (2024 - ), CVPR (2024 - ), ICLR (2024 - Now), ACL (2020 - 2023), EMNLP (2019 - 2023)
 - **Teaching Assistant**: 
   - Smart phone apps development (2024, HKU)
   - Machine Learning in Trading and Finance (2023 Fall, HKU)
   - Computational Linguistics (2021 Fall, PKU)
 
 
-Invited Talks
-=====
+## Invited Talks
 - [2024/10] [AI TIME](https://space.bilibili.com/503316308), **VLFeedback: A Large-Scale AI Feedback Dataset for Large Vision-Language Model Alignment**   
   [Video (in Chinese)](https://www.bilibili.com/video/BV1FDyBYbEw1)
 
@@ -167,9 +160,7 @@ Invited Talks
   [Video (in Chinese)](https://www.bilibili.com/video/BV1aT411k7TF)
 
 
-Awards
-======
-* Tencent Qingyun Scholarship, Tencent, 2025
+## Awards
 * Outstanding Area Chair, EMNLP, 2025 
 * Best Long Paper Award, EMNLP, 2023 
 * National Scholarship, Peking University, 2021

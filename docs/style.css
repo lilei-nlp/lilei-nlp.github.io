@@ -1,0 +1,486 @@
+/* ============================
+   Lei Li's Homepage - Stylesheet
+   Clean academic one-page design
+   ============================ */
+
+/* Reset & Base */
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: #fff;
+  padding: 50px;
+  font: 14px/1.6 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #555;
+  font-weight: 400;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+::selection {
+  background: #267CB9;
+  color: #fff;
+}
+
+/* Layout */
+.wrapper {
+  width: 1100px;
+  margin: 0 auto;
+}
+
+header {
+  width: 260px;
+  float: left;
+  position: fixed;
+}
+
+section {
+  width: 780px;
+  float: right;
+  padding-bottom: 50px;
+}
+
+footer {
+  width: 260px;
+  float: left;
+  position: fixed;
+  bottom: 50px;
+  font-size: 12px;
+  color: #aaa;
+}
+
+footer a {
+  color: #aaa;
+  font-size: 12px;
+}
+
+footer a:hover {
+  color: #267CB9;
+}
+
+/* Typography */
+h1, h2, h3, h4, h5, h6 {
+  color: #222;
+  margin: 0 0 10px;
+  font-weight: 700;
+}
+
+h1 {
+  font-size: 26px;
+  margin-bottom: 4px;
+}
+
+h2 {
+  font-size: 18px;
+  border-bottom: 2px solid #f0f0f0;
+  padding-bottom: 6px;
+  margin-top: 30px;
+  margin-bottom: 14px;
+  padding-left: 10px;
+  border-left: 3px solid #267CB9;
+}
+
+section > h2:first-of-type {
+  margin-top: 8px;
+}
+
+h3 {
+  font-size: 15px;
+  color: #444;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+p {
+  margin: 0 0 12px;
+}
+
+/* Links */
+a {
+  color: #267CB9;
+  text-decoration: none;
+  transition: color 0.15s ease;
+}
+
+a:hover {
+  color: #1a5a8a;
+  text-decoration: underline;
+}
+
+a.ppl {
+  color: #666;
+}
+
+a.ppl:hover {
+  color: #267CB9;
+}
+
+a.adv {
+  color: #333;
+  font-weight: 500;
+}
+
+a.code {
+  color: #1D8A4D;
+  font-size: 12px;
+  font-weight: 500;
+}
+
+a.code:hover {
+  color: #14683a;
+}
+
+a.award {
+  color: #E06060;
+  font-size: 12px;
+  font-weight: 600;
+}
+
+/* Header / Sidebar */
+header h1 {
+  color: #222;
+}
+
+header p.subtitle {
+  color: #666;
+  font-size: 13px;
+  margin-bottom: 8px;
+  line-height: 1.5;
+}
+
+header img {
+  width: 100%;
+  border-radius: 8px;
+  margin: 14px 0;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.08);
+}
+
+header ul.contact {
+  list-style: none;
+  padding: 0;
+  margin: 14px 0 0 0;
+}
+
+header ul.contact li {
+  margin-bottom: 7px;
+  font-size: 13px;
+  color: #555;
+}
+
+header ul.contact li i {
+  width: 18px;
+  text-align: center;
+  margin-right: 7px;
+  color: #777;
+  font-size: 14px;
+}
+
+header ul.contact li a {
+  color: #555;
+}
+
+header ul.contact li a:hover {
+  color: #267CB9;
+  text-decoration: none;
+}
+
+/* Bio */
+.bio {
+  font-size: 14.5px;
+  line-height: 1.75;
+  color: #444;
+}
+
+/* News */
+ul.news {
+  list-style: none;
+  padding: 0;
+}
+
+ul.news li {
+  margin: 0 0 7px;
+  padding-left: 0;
+  font-size: 13.5px;
+  line-height: 1.55;
+}
+
+ul.news li .date {
+  color: #999;
+  font-size: 12.5px;
+  font-family: "SF Mono", "Menlo", "Consolas", monospace;
+  margin-right: 4px;
+}
+
+.highlight-gold {
+  color: #D4AF37;
+  font-weight: 700;
+}
+
+.highlight-red {
+  color: #D44;
+  font-weight: 700;
+}
+
+/* Education & Experience lists */
+ul.exp {
+  list-style: none;
+  padding: 0;
+}
+
+ul.exp li {
+  margin: 0 0 8px;
+  font-size: 13.5px;
+  line-height: 1.5;
+}
+
+ul.exp li .role {
+  font-weight: 600;
+  color: #333;
+}
+
+ul.exp li .org a {
+  font-weight: 500;
+}
+
+ul.exp li .period {
+  color: #999;
+  font-size: 12.5px;
+}
+
+ul.exp li .mentor {
+  font-size: 12.5px;
+  color: #888;
+  display: block;
+  margin-top: 1px;
+}
+
+/* Publications */
+ul.pub-list {
+  list-style: none;
+  padding: 0;
+}
+
+ul.pub-list > li {
+  margin: 0 0 16px;
+  line-height: 1.55;
+}
+
+ul.pub-list > li .title {
+  font-weight: 600;
+  color: #222;
+}
+
+a.title-link {
+  color: #222;
+  font-weight: 600;
+}
+
+a.title-link:hover {
+  color: #267CB9;
+  text-decoration: none;
+}
+
+ul.pub-list > li .authors {
+  font-size: 13px;
+  color: #666;
+  display: block;
+  margin-top: 2px;
+}
+
+ul.pub-list > li .venue {
+  font-style: italic;
+  color: #333;
+  font-size: 13px;
+  font-weight: 500;
+}
+
+ul.pub-list > li .highlight {
+  color: #D44;
+  font-weight: 600;
+  font-size: 12.5px;
+}
+
+ul.pub-list > li .links {
+  margin-top: 3px;
+  display: block;
+}
+
+ul.pub-list > li .links a {
+  margin-right: 2px;
+}
+
+/* Service, Talks, Awards */
+ul.service {
+  list-style: none;
+  padding: 0;
+}
+
+ul.service li {
+  margin: 0 0 6px;
+  font-size: 13.5px;
+  line-height: 1.55;
+}
+
+ul.service li .date {
+  color: #999;
+  font-size: 12.5px;
+  font-family: "SF Mono", "Menlo", "Consolas", monospace;
+  margin-right: 4px;
+}
+
+ul.awards {
+  list-style: none;
+  padding: 0;
+}
+
+ul.awards li {
+  margin: 0 0 6px;
+  font-size: 13.5px;
+  line-height: 1.5;
+}
+
+ul.awards li i {
+  color: #D4AF37;
+  margin-right: 5px;
+  width: 16px;
+  text-align: center;
+}
+
+/* Collapsible sections */
+button.toggle-btn {
+  display: inline-block;
+  cursor: pointer;
+  font-size: 13.5px;
+  color: #267CB9;
+  font-weight: 500;
+  margin-top: 8px;
+  margin-bottom: 4px;
+  user-select: none;
+  background: none;
+  border: none;
+  padding: 0;
+  font-family: inherit;
+}
+
+button.toggle-btn:hover {
+  color: #1a5a8a;
+  text-decoration: underline;
+}
+
+/* Annotation */
+.note {
+  font-size: 11.5px;
+  color: #999;
+  margin-bottom: 4px;
+}
+
+/* Responsive */
+@media screen and (max-width: 960px) {
+  .wrapper {
+    width: auto;
+    margin: 0;
+  }
+
+  header, section, footer {
+    float: none;
+    position: static;
+    width: auto;
+  }
+
+  header {
+    padding-right: 0;
+    text-align: center;
+    margin-bottom: 24px;
+  }
+
+  header img {
+    max-width: 180px;
+    margin: 10px auto;
+    display: block;
+  }
+
+  header ul.contact {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 6px 20px;
+  }
+
+  section {
+    padding-bottom: 30px;
+  }
+
+  footer {
+    text-align: center;
+    margin-top: 30px;
+  }
+}
+
+@media screen and (max-width: 720px) {
+  body {
+    padding: 25px;
+    word-wrap: break-word;
+  }
+
+  h2 {
+    font-size: 17px;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  body {
+    padding: 15px;
+    font-size: 13px;
+  }
+
+  header img {
+    max-width: 150px;
+  }
+}
+
+@media print {
+  body {
+    padding: 0.4in;
+    font-size: 12pt;
+    color: #444;
+  }
+
+  header {
+    position: static;
+    float: none;
+    width: auto;
+    text-align: center;
+  }
+
+  header img {
+    max-width: 120px;
+  }
+
+  section {
+    float: none;
+    width: auto;
+  }
+
+  a {
+    color: #222;
+  }
+
+  a.code, a.award {
+    display: none;
+  }
+
+  h2 {
+    border-left-color: #888;
+  }
+
+  footer {
+    display: none;
+  }
+}
