@@ -17,7 +17,7 @@ html {
 body {
   background-color: #fff;
   padding: 50px;
-  font: 14px/1.6 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font: 15px/1.6 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #555;
   font-weight: 400;
   -webkit-font-smoothing: antialiased;
@@ -129,7 +129,7 @@ a.adv {
 
 a.code {
   color: #1D8A4D;
-  font-size: 12px;
+  font-size: 12.5px;
   font-weight: 500;
 }
 
@@ -193,7 +193,7 @@ header ul.contact li a:hover {
 
 /* Bio */
 .bio {
-  font-size: 14.5px;
+  font-size: 15px;
   line-height: 1.75;
   color: #444;
 }
@@ -207,13 +207,13 @@ ul.news {
 ul.news li {
   margin: 0 0 7px;
   padding-left: 0;
-  font-size: 13.5px;
+  font-size: 14px;
   line-height: 1.55;
 }
 
 ul.news li .date {
   color: #999;
-  font-size: 12.5px;
+  font-size: 13px;
   font-family: "SF Mono", "Menlo", "Consolas", monospace;
   margin-right: 4px;
 }
@@ -236,7 +236,7 @@ ul.exp {
 
 ul.exp li {
   margin: 0 0 8px;
-  font-size: 13.5px;
+  font-size: 14px;
   line-height: 1.5;
 }
 
@@ -251,11 +251,11 @@ ul.exp li .org a {
 
 ul.exp li .period {
   color: #999;
-  font-size: 12.5px;
+  font-size: 13px;
 }
 
 ul.exp li .mentor {
-  font-size: 12.5px;
+  font-size: 13px;
   color: #888;
   display: block;
   margin-top: 1px;
@@ -288,7 +288,7 @@ a.title-link:hover {
 }
 
 ul.pub-list > li .authors {
-  font-size: 13px;
+  font-size: 13.5px;
   color: #666;
   display: block;
   margin-top: 2px;
@@ -297,7 +297,7 @@ ul.pub-list > li .authors {
 ul.pub-list > li .venue {
   font-style: italic;
   color: #333;
-  font-size: 13px;
+  font-size: 13.5px;
   font-weight: 500;
 }
 
@@ -324,7 +324,7 @@ ul.service {
 
 ul.service li {
   margin: 0 0 6px;
-  font-size: 13.5px;
+  font-size: 14px;
   line-height: 1.55;
 }
 
@@ -342,7 +342,7 @@ ul.awards {
 
 ul.awards li {
   margin: 0 0 6px;
-  font-size: 13.5px;
+  font-size: 14px;
   line-height: 1.5;
 }
 
@@ -357,7 +357,7 @@ ul.awards li i {
 button.toggle-btn {
   display: inline-block;
   cursor: pointer;
-  font-size: 13.5px;
+  font-size: 14px;
   color: #267CB9;
   font-weight: 500;
   margin-top: 8px;
