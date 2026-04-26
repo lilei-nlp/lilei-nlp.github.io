@@ -41,6 +41,10 @@
         <li><i class="fa-brands fa-x-twitter"></i> <a href="https://x.com/_TobiasLee">@_TobiasLee</a></li>
         <li><i class="fa-solid fa-file-pdf"></i> <a href="assets/LILEI_CV_2602.pdf">Curriculum Vitae</a></li>
       </ul>
+      <button class="theme-toggle" id="theme-toggle" type="button" aria-label="Toggle dark mode">
+        <span class="switch-track"><span class="switch-thumb"></span></span>
+        <span id="theme-label">Dark mode</span>
+      </button>
     </header>
 
     <!-- ==================== MAIN CONTENT ==================== -->
@@ -97,6 +101,10 @@
       <!-- Experience -->
       <h2>Experience</h2>
       <ul class="exp">
+        <li>
+          <span class="org"><a href="https://huggingface.co/XiaomiMiMo">Xiaomi LLM-Core Team</a></span>, Core Contributor (MiMo V2.5, MiMo-V2-Omni, MiMo-VL)
+          <span class="period">&middot; Jan. 2025 &ndash; Now</span>
+        </li>
         <li>
           <span class="org"><a href="https://reka.ai/">Reka AI</a></span>, Multi-modal LLM R&amp;D Intern
           <span class="period">&middot; Jul. 2023 &ndash; Dec. 2024</span>
@@ -278,6 +286,19 @@
 
       </div>
 
+      <!-- Preprints -->
+      <h2>Preprints</h2>
+      <ul class="pub-list">
+        <li>
+          <a class="title-link" href="https://arxiv.org/abs/2604.06132">Claw-Eval: Toward Trustworthy Evaluation of Autonomous Agents</a>
+          <span class="authors">Bowen Ye, Rang Li, Qibin Yang, Yuanxin Liu, Linli Yao, Hanglong Lv, Zhihui Xie, Chenxin An, <strong>Lei Li</strong>, Lingpeng Kong, Qi Liu, Zhifang Sui, Tong Yang</span>
+          <span class="note">(Project Lead)</span>
+          <span class="links">
+            <a class="code" href="https://arxiv.org/abs/2604.06132">[Paper]</a>
+          </span>
+        </li>
+      </ul>
+
       <!-- Academic Service -->
       <h2>Academic Service</h2>
       <ul class="service">
@@ -305,17 +326,26 @@
         <li><i class="fa-solid fa-award"></i> Best Demo Award, <a href="https://deecamp.com/">DeeCamp</a>, 2018</li>
       </ul>
 
-      <p style="margin-top:30px; text-align:center;"><a href="#top">&uarr; Back to top</a></p>
+      <p class="back-top"><a href="#top">&uarr; Back to top</a></p>
 
     </section>
 
     <footer>
-      <p>&copy; Lei Li 2025</p>
+      <p>&copy; Lei Li 2026</p>
     </footer>
 
   </div>
   <script>
-    document.addEventListener('DOMContentLoaded', function() {
+    (function() {
+      var html = document.documentElement;
+
+      // load saved preference
+      var saved = localStorage.getItem('theme');
+      if (saved === 'dark' || saved === 'light') {
+        html.classList.add(saved);
+      }
+
+      // collapse older publications
       var btn = document.getElementById('older-pub-btn');
       var content = document.getElementById('older-pub');
       var open = false;
@@ -324,7 +354,31 @@
         content.style.display = open ? 'block' : 'none';
         btn.innerHTML = open ? '\u25BC Older Publications' : '\u25B6 Older Publications';
       });
-    });
+
+      // theme toggle
+      var toggle = document.getElementById('theme-toggle');
+      var label = document.getElementById('theme-label');
+
+      function updateLabel() {
+        var isDark = html.classList.contains('dark');
+        label.textContent = isDark ? 'Light mode' : 'Dark mode';
+      }
+      updateLabel();
+
+      toggle.addEventListener('click', function() {
+        var isDark = html.classList.contains('dark');
+        if (isDark) {
+          html.classList.remove('dark');
+          html.classList.add('light');
+          localStorage.setItem('theme', 'light');
+        } else {
+          html.classList.remove('light');
+          html.classList.add('dark');
+          localStorage.setItem('theme', 'dark');
+        }
+        updateLabel();
+      });
+    })();
   </script>
 </body>
 </html>

@@ -135,6 +135,10 @@ Chaoyou Fu, Yuhan Dai, Yongdong Luo, **Lei Li**, Shuhuai Ren, Renrui Zhang et al
 
 ### Preprints
 
+* **Claw-Eval: Toward Trustworthy Evaluation of Autonomous Agents**  
+Bowen Ye, Rang Li, Qibin Yang, Yuanxin Liu, Linli Yao, Hanglong Lv, Zhihui Xie, Chenxin An, **Lei Li**, Lingpeng Kong, Qi Liu, Zhifang Sui, Tong Yang (Project Lead)  
+[[arxiv](https://arxiv.org/abs/2604.06132)]
+
 * **M3IT: A Large-Scale Dataset towards Multi-Modal Multilingual Instruction Tuning**  
 **Lei Li**, Yuwei Yin, Shicheng Li, Liang Chen, Peiyi Wang, Shuhuai Ren, Mukai Li, Yazheng Yang, Jingjing Xu, Xu Sun, Lingpeng Kong, Qi Liu  
 [[arxiv](https://arxiv.org/pdf/2306.04387.pdf), [dataset](https://huggingface.co/datasets/MMInstruction/M3IT)]
