@@ -1,0 +1,109 @@
+---
+title: "I&#39;m nothing."
+date: 2017-06-12
+categories:
+  - blog
+tags: []
+---
+
+空间里学弟们庆祝着解放，洋溢着的考后的喜悦和空虚提醒着我：高考，过去一年了。
+
+当初考场上的种种，让我来到了现在所处的地方。
+
+刚入学时候的不甘心还萦绕在心头，而现在，深深的无力感又充斥着我的身体。
+
+<span id="more"></span>
+
+## <a href="#关于过去" class="headerlink" title="关于过去"></a>关于过去
+
+回头看大学快结束的这一个学年，大概能够用一事无成来形容吧。
+
+英语竞赛做了分母，ACM因为开小号被取消资格（笑），数模辛苦三天也没能捞个鼓励奖。
+
+可能是竞赛绝缘体质？
+
+但其实自己也清楚，真要准备这些比赛必然是要前期投入大量的时间和精力的，我只是去参与了这一项又一项的比赛，但真要说参加比赛，我想我的投入还是达不到要求的。
+
+或许这可能又是我的叙事自我在找借口了。
+
+可能是高中的某些人让我有一种聪明的人不用很努力最后结局也能光彩熠熠的错觉？
+
+然后我可能被上学期侥幸的GPA冲昏了脑子以为自己还算聪明？
+
+还是应该给自己泼一盆冷水: **You’re nothing.**
+
+不要太过自以为是了，真牛逼的话现在又怎么会在这里？
+
+要参加英语竞赛就把题好好刷了，用心准备的话会拿不到奖？
+
+要打ACM就得和人家一样把课余、睡眠时间拿去训练，而不是每天准时熄灯睡觉还喜欢赖床。
+
+要做数模就好好学Matlab，学好数理基础，用cftool拟合个函数算什么数模？看着唬人，只能骗骗自己。
+
+别真把自己当根葱了，没有汗水，哪来的回报？
+
+光知道眼馋人家拿奖拿牌，自己又每天过着咸鱼一样的生活，可笑么？
+
+## <a href="#关于未来" class="headerlink" title="关于未来"></a>关于未来
+
+上大学前信誓旦旦地说毕业就工作，谁上研谁傻逼。
+
+现在写了大半年Android，调调API，抄书上的代码，照着教程看看源码，出了bug就Google，StackOverFlow。真的，没什么技术含量。
+
+搓了个看着吓人的滤镜播放器，自己也清楚，都是copy的开源代码做了一些改动而已。
+
+甚至连加几个库以外的滤镜，把视频本地化保存的能力都没有。
+
+说没有技术含量，你又做不出来，是不是在打自己脸？
+
+看学长Github上万把颗星，自己想要却只能让同学帮忙Star。
+
+最近也有好久没有写代码了。
+
+傻瓜也知道，技术这种东西，急于求成不来；没有十万行代码的功夫，哪来的star?
+
+又不是什么万里挑一的神人，有些时候觉得过于苛求自己了。
+
+我也想瘫在寝室快乐咸鱼每一天，但心里总是有个声音告诉我：你不可以那样。
+
+Why？我不知道，但那并不是我想要的生活。
+
+然后现在又有上研的想法，target大约是THU或者ZJU，方向可能是ML。
+
+这个想法大约是听了一系列讲座而萌生的吧，以及最近很火的AlphaGo。
+
+Google已经从Mobile First转向AI First，想要成为时代的弄潮儿必然是要向这方向发展。
+
+也有觉得本科平台不够大，想要获取更多资源的想法吧，看了很多清华人的blog，大约就有一种top university就是不一样，校友质量碾压我等的感觉。
+
+上研意味着不仅仅要GPA，科研竞赛都得有成绩，我又该走哪条路呢？
+
+摇摆不定，迷茫而不知道方向。
+
+大约只有时间能够给我答案。
+
+## <a href="#I’m-Nothing" class="headerlink" title="I’m Nothing"></a>I’m Nothing
+
+絮叨了很多，骂了自己也分析了原因。
+
+大约还是要摆正姿态，**No pain, no gain** 不仅仅是作文里的套话，真的是事实。
+
+你并不是什么天才，唯有勤勉，方能砥砺前行。
+
+他人的期望也许在无形之间让你不断地苛责自己以期达到他们的要求。
+
+但有时候，还是要听听自己内心的声音，哪怕这个叙事自我可能在骗你，不过那确确实实是你的声音。
+
+就这样。
+
+- <a href="javascript:void(0)" class="js-tag article-tag-list-link color3">随笔</a>
+
+<span class="tooltip-item"> <a href="javascript:;" class="share-sns share-outer"><em></em></a> </span> <span class="tooltip-content"> </span>
+
+<a href="javascript:;" class="weibo share-sns" data-type="weibo"><em></em></a> <a href="javascript:;" class="weixin share-sns wxFab" data-type="weixin"><em></em></a> <a href="javascript:;" class="qq share-sns" data-type="qq"><em></em></a> <a href="javascript:;" class="douban share-sns" data-type="douban"><em></em></a> <a href="javascript:;" class="qzone share-sns" data-type="qzone"><em></em></a> <a href="javascript:;" class="facebook share-sns" data-type="facebook"><em></em></a> <a href="javascript:;" class="twitter share-sns" data-type="twitter"><em></em></a> <a href="javascript:;" class="google share-sns" data-type="google"><em></em></a>
+
+<a href="javascript:;" class="close js-modal-close"><em></em></a>
+
+扫一扫，分享到微信
+
+![微信分享二维码](http://s.jiathis.com/qrcode.php?url=https://tobiaslee.top/2017/06/12/I-m-nothing/)

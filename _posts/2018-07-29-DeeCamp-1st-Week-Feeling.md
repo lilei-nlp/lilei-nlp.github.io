@@ -1,0 +1,53 @@
+---
+title: "DeeCamp 第一周随记"
+date: 2018-07-29
+categories:
+  - blog
+tags: []
+---
+
+一开始并不抱太大希望往 DeeCamp 投了简历，笔试最后一道题犯了低级错误，还以为要与这次夏令营失之交臂，结果居然成为了 300 个幸运儿之一。7.20 考完试稍微收拾一下，怀着忐忑的心情，第二天就坐上了去北京的高铁。唰的一下，紧张而又充实的一周就这样度过了。
+
+## <a href="#北大，第二次见面" class="headerlink" title="北大，第二次见面"></a>北大，第二次见面
+
+上一次到北大还是高中毕业旅行，那时候是个游客，靠着同学姐姐带了进来，走马观花地游览了一番。还是觉得蛮神奇的，两年之后再次和北大见面，并且这里要在生活一个月。虽然只是营员，但是拿到北大学生卡的时候还是小小激动了一把。在这第一个礼拜里，吃了学五鸡腿饭，松林的包子，和高中同学一起夜游北大…… 都是缘分呐。
+
+环境方面，心里难免会和西电做个比较。宿舍方面，西电算是胜出吧，毕竟西北第一，两室一厅也是没谁（虽然今年的新生是 10 间，gg）；食堂方面，虽然说非本校学生要加 15%，但我觉得北大的食堂还是很棒的，整体比我校要看起来干净许多，不过人也是爆多了，毕竟知名学府2333；教学楼方面，北大胜出，就凭打热水的机器还有**常温水**的选择，我就给他满分！而且教室整体也都高出西电一个档次（钱多就是好啊）。
+
+## <a href="#知识课，饕餮盛宴" class="headerlink" title="知识课，饕餮盛宴"></a>知识课，饕餮盛宴
+
+昨天刚上完知识课，导师的阵容应该是找不出第二家了，并且内容基本上 cover 了人工智能相关的各个方面。不过因为我主要研究的是自然语言处理，所以很多其他领域的 talk 并不能 follow 很多，但整个一周下来，也算是对 AI 的全景有了一个整体上的感知。
+
+印象比较深的几个讲座有下面几个：
+
+- 李开复老师讲 AI 的全景，人才的培养，甚至后面单独拿出一个午休的时间来答疑。原先我看过李开复老师的一些书，比如说《人工智能》，当然这本书可能更适合非专业人士来了解 AI，因为其写的过于浅显导致我甚至怀疑李开复老师的水平（捂脸）。但当他作为亲历者，给我们娓娓道来整个 AI 的发展浪潮，了解到他所研究的项目包括 CV、语音识别、下棋都是当时世界顶级的，事实上，他是在学界、工业界都非常有成就的，我为自己的无知感到无比羞愧。李开复老师真的有一种谦谦君子温润如玉的感觉，还把他的微信小号分享给大家。这种 dalao 真的见一次能让你感受到什么叫 level 上的差距，后面景驰的 CEO 说他当年也是李开复的迷弟，没想到今天李开复就成了他的投资人，一起喝酒说要做点什么。希望有一天我也能和李开复一起做点事情（逃
+- 孙栩老师讲 NLP：因为我本身做 NLP，所以最感兴趣的自然是北大孙老师的自然语言处理课程。之前也看过孙老师的主页，感觉真人比照片上更精干一些，也更睿智一些。内容方面因为考虑到大家水平层次不齐，所以都是比较基础的内容。但是课间的时候同学们向孙老师咨询问题的时候，我凑上去旁听也问了几个问题，收获还是蛮大的。我问了一个问题是 word embedding 是一种好的表示吗（或者说是只有这样一条路子来做词的表示吗？），孙老师指出 COLING 18 有相关的工作不仅考虑 word embedding，同时把语言模型的参数也附加进来的一种方法，开拓了我的思路。另外发现孙老师组的作品有一个共性，就是看待问题的方式是很新颖的，比如把 Multi-label Classification 任务看成是生成任务，一篇 SGM 也因此拿了 COLING 的 best paper。总的来说，孙老师人很 nice，希望明年有时间的话能到孙老师组实习。
+- 王咏刚老师讲创新创业：先前在学校里上过创新创业课程，不得不说，差距还是太大了，毕竟创业工场是国内最著名的孵化器，作为其中的 AI 工程院副院长的王老师眼光自然很是毒辣，其所经历的和。王老师拿 pdd 做例子告诉我们，即使在座的 300 人里没有用 pdd 的，但它还是成功了。中国的人口那么多，流量怎么下沉？黄峥多次到四五线城市去调研，就是为了发觉这一部分人群真正的需求。而技术人员、学生创业很容易陷入怪圈，并且告诫我们，在创业的时候一定要问问自己：**看到是个体需求，还是普遍逻辑**？**是技术闪光点，还是大的框架**？以前自己真的是很 naive 了，啊我有个 Paper 效果很好，accuracy 很高，但是抱歉，市场不买账。另外，AI 在未来毫无疑问是重中之重，但是它能够 to C 吗？不能，**纯 AI 并不能作为一个独立的产品，往往是卖给企业，和已有的环节结合，赋能增效，创造更大的价值**。
+
+## <a href="#Find-My-Way" class="headerlink" title="Find My Way"></a>Find My Way
+
+收获最大的是孙栩老师让他的研究生，同时也是今年 COLING Best Paper 的第一作者杨鹏程来给我们讲工作以及科研的经历。其中他说到，首先我们需要想清楚自己要做什么？是一个 researcher 还是一个 engineer，甚至是一个 PM。当然了，目前我的选择就是 research，而如果选择做科研那么就就会经常处于两中情况：
+
+- 没有 Idea：
+  1.  尝试做一个应用型任务，学以致用
+  2.  多读论文，厚积薄发
+  3.  重视小的创新，循序渐进，积少成多
+- 有了 Idea：
+  1.  能否进一步创新，拉大与 baseline 的 gap
+  2.  成功的 idea 存在什么问题，能否进一步解决
+  3.  如何解释 idea 成功的原因
+  4.  如何设计全方位的实验来验证 motivation 以及解释原因
+
+之前有过写一篇 Paper 的经历，知道了 Paper 的架构是怎么样的，对整个流程也有一个模糊的概念，但始终没有梳理出一个框架来。而杨鹏程学长的分享让我有一种醍醐灌顶的感觉，据说这也是其和组内师兄总结得出的，我想这一周最大的收获莫过于此。
+
+- <a href="javascript:void(0)" class="js-tag article-tag-list-link color3">随笔</a>
+
+<span class="tooltip-item"> <a href="javascript:;" class="share-sns share-outer"><em></em></a> </span> <span class="tooltip-content"> </span>
+
+<a href="javascript:;" class="weibo share-sns" data-type="weibo"><em></em></a> <a href="javascript:;" class="weixin share-sns wxFab" data-type="weixin"><em></em></a> <a href="javascript:;" class="qq share-sns" data-type="qq"><em></em></a> <a href="javascript:;" class="douban share-sns" data-type="douban"><em></em></a> <a href="javascript:;" class="qzone share-sns" data-type="qzone"><em></em></a> <a href="javascript:;" class="facebook share-sns" data-type="facebook"><em></em></a> <a href="javascript:;" class="twitter share-sns" data-type="twitter"><em></em></a> <a href="javascript:;" class="google share-sns" data-type="google"><em></em></a>
+
+<a href="javascript:;" class="close js-modal-close"><em></em></a>
+
+扫一扫，分享到微信
+
+![微信分享二维码](http://s.jiathis.com/qrcode.php?url=https://tobiaslee.top/2018/07/29/DeeCamp-1st-Week-Feeling/)

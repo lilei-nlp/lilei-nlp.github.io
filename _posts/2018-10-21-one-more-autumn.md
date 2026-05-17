@@ -1,0 +1,53 @@
+---
+title: "秋寒"
+date: 2018-10-21
+categories:
+  - blog
+tags: []
+---
+
+​前两天日子晴朗的时候，看到路两侧的银杏，黄的很干净，也很安静。这两天总是有些小雨，温度也骤然降下来。我是一个对时间流逝很敏感的人，用不着逐渐增厚的衣服提醒，我知道，在西电的第三个秋天到了。
+
+## <a href="#近况" class="headerlink" title="近况"></a>近况
+
+​开学以来的这段时间，非常地充实。整个暑假都在 DeeCamp，回来之后就投入到之前论文的修改中。说起来这篇处女作也是命途多舛，被拒之后经过了大幅度的修改，再投，竟然被秒拒，甚至没有送外审。似乎是因为主题不符合，姑且算是为下一次攒人品吧。又修改了一次并且再次投出去，希望能够有一个好的结果。
+
+​课程依旧是波澜不惊地进行着，lanco 的实习 Project 也让我在闲暇有事可做。说实话，我不算是那种虚度一秒钟都会觉得愧疚的人，但也会因为荒废大量的时间摸鱼感到一丝紧张。这种心理从高三一直延续到现在，究其背后的 motivation，其实也很简单，我也在之前提到过：高三的时候是为了千军万马过独木桥，如今则是”我不属于这里”的不甘。这种心情从大一到现在，淡化了很多，但依旧让我保持警醒。但其实这么两年下来下来，神经不再像刚入学时候一样一直紧绷着，很多时候，**弄清楚自己想要的，选择一条路慢慢走下去，不用太过着急**，结果没有那么的重要。**不要让自己后悔的同时，尽可能过得舒服一点**，找到自己的节奏，就 ok 了。
+
+​身边其实也有很多优秀的同学，早早地联系老师，为未来打下基础。我觉得这真的很不错，因为之前去 THU 蹭讲座的时候发现相比北京的一些高校，西安的地理位置太吃亏了。不怕笨鸟先飞，就怕聪明的鸟飞的比你早。很多时候我们缺的是这种意识，而当你产生危机感之后，立马行动起来，是不会吃亏太多的。
+
+<span id="more"></span>
+
+## <a href="#GitHub" class="headerlink" title="GitHub"></a>GitHub
+
+​GitHub 是个好东西，作为一名 CS 学生，我觉得 GitHub 很多时候比什么英语竞赛更能够衡量专业能力。之前看杭高的学长 <a href="https://github.com/geeeeeeeeek" target="_blank" rel="noopener">Zhongyi Tong</a> 的主页， Star 加起来之前的几万，很是羡慕。所以一直在努力的维护自己的 GitHub 吧，希望有生之年能有个破千的项目（逃。之前的<a href="https://github.com/TobiasLee/Text-Classification" target="_blank" rel="noopener">文本分类</a>项目现在有 88 个 Star 了，希望能尽快破百吧哈哈哈哈哈，看到有人点 fork 但是不 star 的时候我真的好心痛啊！还有就是最近能够收到不少邮件或者是 Issue，作为项目的所有者，我很乐意去解答一些问题（当然这是要看人的，开源项目就是提供一个平台，owner 没有义务这么做）。在答复的过程中，相当于也逼迫自己再去思考一遍问题，之前就有几个小伙伴找出了一个很大的 bug，我也是再次学习了一次。**这的确是一个能够帮助你快速成长的平台**，也能帮助你 explore more。
+
+## <a href="#书和影" class="headerlink" title="书和影"></a>书和影
+
+​这段时间看了两本书：《鹿鼎记》和《白鹿原》。金庸的小说真的很过瘾，看着就停不下来，韦小宝教给的我就是：混江湖一定要重义气。《白鹿原》讲的就是陕西这片土地上的故事了，我也才知道”葫芦鸡“的来历哈哈哈哈，白鹿原上两大户白家和鹿家三代人所经历的，也是中国近代历史的一个缩影了。白家的屹立不倒的原因莫过于家主“挺直的腰杆”，“耕读传家”相比勺勺客的趋炎附势，是更能经受住时间的考验的。这种中国历史背景之下个人家族的沉浮的故事也算得上是我的心头好了，之前看的一本《北鸢》也是同样的题材，读起来很舒服。
+
+​看综艺真的是很能够平息做实验的烦躁，最近在看的有《向往的生活》《极限挑战》，但都不会追着看，有一搭没一搭地在看。Gakki 的新剧也有在看，但并不是很对口味，反倒是之前看了几季就撂下的《Shameless》的第九季，可以看得很轻松，就是打发等待实验的时间嘛。国庆的时候也看了不少电影，《快把我哥带走》居然催下了几滴眼泪，漫威的几部片子也就那样，毕竟不是一个真正的漫威粉，当做爆米花电影看就完事了。前几天久违地寝室小剧场一起看了《V 字仇杀队》，之前好像是在电影频道看过一些片段，这次补完也算是没有愧对这部神片。其余也就是刷了刷豆瓣 Top 250，也就是囫囵吞枣，增添一些谈资罢了。
+
+​其实很希望有时间能去看看话剧、音乐会什么的，不过贵校这个地理位置也真是限制了我的行动，找机会回家看了只能。
+
+## <a href="#希冀" class="headerlink" title="希冀"></a>希冀
+
+接下来的日子里，做好下面几件事：
+
+1.  保持广泛地阅读：Paper 也好，艺术史小说也罢，多读多看，没有坏处。努力练就看 Paper 如喝水一样的状态。
+2.  Keep Coding，Keep Thinking：回头看自己写的代码，真的觉得是一坨 Shit！写的时候仓促，能跑就行的毛病还是没改，于是就有随手就丢上 GitHub 然后被吐槽的故事，不过 GitHub 能够迫使我来重构自己的代码（毕竟是第二张简历），希望以后写代码的时候多想想。
+3.  锻炼身体，为祖国健康工作五十年！
+
+希望所有明媚的梦想都能够在不久之后绽放，Good Luck！
+
+- <a href="javascript:void(0)" class="js-tag article-tag-list-link color3">随笔</a>
+
+<span class="tooltip-item"> <a href="javascript:;" class="share-sns share-outer"><em></em></a> </span> <span class="tooltip-content"> </span>
+
+<a href="javascript:;" class="weibo share-sns" data-type="weibo"><em></em></a> <a href="javascript:;" class="weixin share-sns wxFab" data-type="weixin"><em></em></a> <a href="javascript:;" class="qq share-sns" data-type="qq"><em></em></a> <a href="javascript:;" class="douban share-sns" data-type="douban"><em></em></a> <a href="javascript:;" class="qzone share-sns" data-type="qzone"><em></em></a> <a href="javascript:;" class="facebook share-sns" data-type="facebook"><em></em></a> <a href="javascript:;" class="twitter share-sns" data-type="twitter"><em></em></a> <a href="javascript:;" class="google share-sns" data-type="google"><em></em></a>
+
+<a href="javascript:;" class="close js-modal-close"><em></em></a>
+
+扫一扫，分享到微信
+
+![微信分享二维码](http://s.jiathis.com/qrcode.php?url=https://tobiaslee.top/2018/10/21/one-more-autumn/)
