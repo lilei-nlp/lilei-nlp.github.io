@@ -39,15 +39,3 @@ tags: []
   4.  如何设计全方位的实验来验证 motivation 以及解释原因
 
 之前有过写一篇 Paper 的经历，知道了 Paper 的架构是怎么样的，对整个流程也有一个模糊的概念，但始终没有梳理出一个框架来。而杨鹏程学长的分享让我有一种醍醐灌顶的感觉，据说这也是其和组内师兄总结得出的，我想这一周最大的收获莫过于此。
-
-- <a href="javascript:void(0)" class="js-tag article-tag-list-link color3">随笔</a>
-
-<span class="tooltip-item"> <a href="javascript:;" class="share-sns share-outer"><em></em></a> </span> <span class="tooltip-content"> </span>
-
-<a href="javascript:;" class="weibo share-sns" data-type="weibo"><em></em></a> <a href="javascript:;" class="weixin share-sns wxFab" data-type="weixin"><em></em></a> <a href="javascript:;" class="qq share-sns" data-type="qq"><em></em></a> <a href="javascript:;" class="douban share-sns" data-type="douban"><em></em></a> <a href="javascript:;" class="qzone share-sns" data-type="qzone"><em></em></a> <a href="javascript:;" class="facebook share-sns" data-type="facebook"><em></em></a> <a href="javascript:;" class="twitter share-sns" data-type="twitter"><em></em></a> <a href="javascript:;" class="google share-sns" data-type="google"><em></em></a>
-
-<a href="javascript:;" class="close js-modal-close"><em></em></a>
-
-扫一扫，分享到微信
-
-![微信分享二维码](http://s.jiathis.com/qrcode.php?url=https://tobiaslee.top/2018/07/29/DeeCamp-1st-Week-Feeling/)

@@ -133,7 +133,6 @@ h\*：最后的输出，添加一层 `tanh` ，把值变换到\[-1, 1\]区间，
     # dropout layer 
     drop = tf.nn.dropout(h_star, keep_prob)
 
-
     # Fully connected layer（dense layer)
     W = tf.Variable(tf.truncated_normal([HIDDEN_SIZE, MAX_LABEL], stddev=0.1))
     b = tf.Variable(tf.constant(0., shape=[MAX_LABEL]))
@@ -163,17 +162,4 @@ h\*：最后的输出，添加一层 `tanh` ，把值变换到\[-1, 1\]区间，
 9.4: Change Max Document Size to 25: Accuracy 93.4%
 
 9.22：重写了代码，把 Word Embedding 的训练和 Attention-based Bidirectional LSTM 训练放在一起，5 个 epoch 之后，Accuracy: 98.3%
-
-- <a href="javascript:void(0)" class="js-tag article-tag-list-link color4">NLP</a>
 - <a href="javascript:void(0)" class="js-tag article-tag-list-link color2">Machine Learning</a>
-- <a href="javascript:void(0)" class="js-tag article-tag-list-link color1">TensorFlow</a>
-
-<span class="tooltip-item"> <a href="javascript:;" class="share-sns share-outer"><em></em></a> </span> <span class="tooltip-content"> </span>
-
-<a href="javascript:;" class="weibo share-sns" data-type="weibo"><em></em></a> <a href="javascript:;" class="weixin share-sns wxFab" data-type="weixin"><em></em></a> <a href="javascript:;" class="qq share-sns" data-type="qq"><em></em></a> <a href="javascript:;" class="douban share-sns" data-type="douban"><em></em></a> <a href="javascript:;" class="qzone share-sns" data-type="qzone"><em></em></a> <a href="javascript:;" class="facebook share-sns" data-type="facebook"><em></em></a> <a href="javascript:;" class="twitter share-sns" data-type="twitter"><em></em></a> <a href="javascript:;" class="google share-sns" data-type="google"><em></em></a>
-
-<a href="javascript:;" class="close js-modal-close"><em></em></a>
-
-扫一扫，分享到微信
-
-![微信分享二维码](http://s.jiathis.com/qrcode.php?url=https://tobiaslee.top/2017/08/29/Attention-based-LSTM-for-Text-Classification/)

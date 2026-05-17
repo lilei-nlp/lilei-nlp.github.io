@@ -115,17 +115,4 @@ $$ p(y\_t) = softmax( f(q\_t, e\_i)) $$
 **这种检索式的生成带来的显著好处就是参数量的下降**，和原先百万级别的全连接层参数相比，这里至多只有 $W\_q$ 、 $W\_e$ （concatl）和一个 $v$，假设 hidden size 和 embedding size 都是 256，其参数量也就是 256 x 256 x 2 + 256，在十万左右。不过这也意味着我们需要对每一个 word embedding 都做一次 query，似乎是在用空间换时间；但是好在可以通过向量并行化进行操作，所以最终的收敛速度还是要优于原先的 Seq2Seq。同时，这个 query 是在 word embedding 层面上做的，**各个词之间的 relation 能够得到得到一个强化**（比如 semantic meaning 类似的词概率 query 后的分数比较相近），对应地缓解先前的各个词的概率关联度不高的问题。
 
 另外，可以看出，这种 Query 式的 Attention 有一点《Attention is All you Need》的味道在里面。
-
-- <a href="javascript:void(0)" class="js-tag article-tag-list-link color4">NLP</a>
 - <a href="javascript:void(0)" class="js-tag article-tag-list-link color1">Text Generation</a>
-- <a href="javascript:void(0)" class="js-tag article-tag-list-link color2">Paper Notes</a>
-
-<span class="tooltip-item"> <a href="javascript:;" class="share-sns share-outer"><em></em></a> </span> <span class="tooltip-content"> </span>
-
-<a href="javascript:;" class="weibo share-sns" data-type="weibo"><em></em></a> <a href="javascript:;" class="weixin share-sns wxFab" data-type="weixin"><em></em></a> <a href="javascript:;" class="qq share-sns" data-type="qq"><em></em></a> <a href="javascript:;" class="douban share-sns" data-type="douban"><em></em></a> <a href="javascript:;" class="qzone share-sns" data-type="qzone"><em></em></a> <a href="javascript:;" class="facebook share-sns" data-type="facebook"><em></em></a> <a href="javascript:;" class="twitter share-sns" data-type="twitter"><em></em></a> <a href="javascript:;" class="google share-sns" data-type="google"><em></em></a>
-
-<a href="javascript:;" class="close js-modal-close"><em></em></a>
-
-扫一扫，分享到微信
-
-![微信分享二维码](http://s.jiathis.com/qrcode.php?url=https://tobiaslee.top/2018/09/01/Recent-Paper-Notes/)

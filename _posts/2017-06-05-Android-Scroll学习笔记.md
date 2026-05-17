@@ -615,16 +615,4 @@ Scroller启动有两个方法，区别就在于一个指定了时间长短，一
 最后我们看看实现的效果:
 
 ![scroll](/img/scroll_view.gif)
-
-- <a href="javascript:void(0)" class="js-tag article-tag-list-link color3">Android</a>
 - <a href="javascript:void(0)" class="js-tag article-tag-list-link color3">自定义View</a>
-
-<span class="tooltip-item"> <a href="javascript:;" class="share-sns share-outer"><em></em></a> </span> <span class="tooltip-content"> </span>
-
-<a href="javascript:;" class="weibo share-sns" data-type="weibo"><em></em></a> <a href="javascript:;" class="weixin share-sns wxFab" data-type="weixin"><em></em></a> <a href="javascript:;" class="qq share-sns" data-type="qq"><em></em></a> <a href="javascript:;" class="douban share-sns" data-type="douban"><em></em></a> <a href="javascript:;" class="qzone share-sns" data-type="qzone"><em></em></a> <a href="javascript:;" class="facebook share-sns" data-type="facebook"><em></em></a> <a href="javascript:;" class="twitter share-sns" data-type="twitter"><em></em></a> <a href="javascript:;" class="google share-sns" data-type="google"><em></em></a>
-
-<a href="javascript:;" class="close js-modal-close"><em></em></a>
-
-扫一扫，分享到微信
-
-![微信分享二维码](http://s.jiathis.com/qrcode.php?url=https://tobiaslee.top/2017/06/05/Android-Scroll学习笔记/)

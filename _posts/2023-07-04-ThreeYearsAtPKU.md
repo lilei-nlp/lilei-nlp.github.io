@@ -45,15 +45,3 @@ Research 的道路也因为朋友们的陪伴变得更加丰富多彩，还记�
 - 构建自己的知识体系：回顾这三年，学到的很多东西都是零散的分布在各式各样平台上（主要是我的脑子里），没有比较好的整理，进而对复用效率造成影响（脑子会变慢的）。在保持输入（广泛阅读）和输出（尝试提升写技术文章的频率）的同时，在个人知识库中沉淀感兴趣的模块的内容和工具。
 
 祝自己能够如愿，也祝愿 PKU 的大家都有美好的未来！
-
-- <a href="javascript:void(0)" class="js-tag article-tag-list-link color3">随笔</a>
-
-<span class="tooltip-item"> <a href="javascript:;" class="share-sns share-outer"><em></em></a> </span> <span class="tooltip-content"> </span>
-
-<a href="javascript:;" class="weibo share-sns" data-type="weibo"><em></em></a> <a href="javascript:;" class="weixin share-sns wxFab" data-type="weixin"><em></em></a> <a href="javascript:;" class="qq share-sns" data-type="qq"><em></em></a> <a href="javascript:;" class="douban share-sns" data-type="douban"><em></em></a> <a href="javascript:;" class="qzone share-sns" data-type="qzone"><em></em></a> <a href="javascript:;" class="facebook share-sns" data-type="facebook"><em></em></a> <a href="javascript:;" class="twitter share-sns" data-type="twitter"><em></em></a> <a href="javascript:;" class="google share-sns" data-type="google"><em></em></a>
-
-<a href="javascript:;" class="close js-modal-close"><em></em></a>
-
-扫一扫，分享到微信
-
-![微信分享二维码](http://s.jiathis.com/qrcode.php?url=https://tobiaslee.top/2023/07/04/ThreeYearsAtPKU/)

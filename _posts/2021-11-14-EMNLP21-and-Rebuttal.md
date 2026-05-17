@@ -94,15 +94,3 @@ tags: []
 这些策略给我独立写 rebuttal 的时候提供了很大的帮助，并且我在 AAAI rebuttal 的过程中也应用了相应的策略，虽然不知道结果如何，这个攻略把 rebuttal 这事很好的系统化了，可以说有攻略在手，rebuttal 不慌。
 
 祝我自己以及大家好运 :) ！
-
-- <a href="javascript:void(0)" class="js-tag article-tag-list-link color4">NLP</a>
-
-<span class="tooltip-item"> <a href="javascript:;" class="share-sns share-outer"><em></em></a> </span> <span class="tooltip-content"> </span>
-
-<a href="javascript:;" class="weibo share-sns" data-type="weibo"><em></em></a> <a href="javascript:;" class="weixin share-sns wxFab" data-type="weixin"><em></em></a> <a href="javascript:;" class="qq share-sns" data-type="qq"><em></em></a> <a href="javascript:;" class="douban share-sns" data-type="douban"><em></em></a> <a href="javascript:;" class="qzone share-sns" data-type="qzone"><em></em></a> <a href="javascript:;" class="facebook share-sns" data-type="facebook"><em></em></a> <a href="javascript:;" class="twitter share-sns" data-type="twitter"><em></em></a> <a href="javascript:;" class="google share-sns" data-type="google"><em></em></a>
-
-<a href="javascript:;" class="close js-modal-close"><em></em></a>
-
-扫一扫，分享到微信
-
-![微信分享二维码](http://s.jiathis.com/qrcode.php?url=https://tobiaslee.top/2021/11/14/EMNLP21-and-Rebuttal/)

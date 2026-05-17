@@ -82,16 +82,4 @@ $$\mathbf{h}^{(t)} = \mathbf{Q}^TA^t\mathbf{Q} \mathbf{h}^{(0)} $$
 ## <a href="#Reference" class="headerlink" title="Reference"></a>Reference
 
 推导的过程主要参考了花书《Deep Learning》中文版，此时突然想到高中老师的一句话：人生需要几本垫底的书。希望花书能成为替我垫底的几本书之一吧。
-
-- <a href="javascript:void(0)" class="js-tag article-tag-list-link color4">Deep Learning</a>
 - <a href="javascript:void(0)" class="js-tag article-tag-list-link color5">BPTT</a>
-
-<span class="tooltip-item"> <a href="javascript:;" class="share-sns share-outer"><em></em></a> </span> <span class="tooltip-content"> </span>
-
-<a href="javascript:;" class="weibo share-sns" data-type="weibo"><em></em></a> <a href="javascript:;" class="weixin share-sns wxFab" data-type="weixin"><em></em></a> <a href="javascript:;" class="qq share-sns" data-type="qq"><em></em></a> <a href="javascript:;" class="douban share-sns" data-type="douban"><em></em></a> <a href="javascript:;" class="qzone share-sns" data-type="qzone"><em></em></a> <a href="javascript:;" class="facebook share-sns" data-type="facebook"><em></em></a> <a href="javascript:;" class="twitter share-sns" data-type="twitter"><em></em></a> <a href="javascript:;" class="google share-sns" data-type="google"><em></em></a>
-
-<a href="javascript:;" class="close js-modal-close"><em></em></a>
-
-扫一扫，分享到微信
-
-![微信分享二维码](http://s.jiathis.com/qrcode.php?url=https://tobiaslee.top/2018/04/28/BPTT-notes/)

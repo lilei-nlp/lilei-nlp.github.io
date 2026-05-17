@@ -116,18 +116,5 @@ GRU 则在 LSTM 基础之上做了简化：
 <a href="http://www.cs.toronto.edu/~tingwuwang/rnn_tutorial.pdf" target="_blank" rel="noopener">RNN Tutorial-Toronto University</a>
 
 <a href="http://colah.github.io/posts/2015-08-Understanding-LSTMs/" target="_blank" rel="noopener">Understanding-LSTM</a>
-
-- <a href="javascript:void(0)" class="js-tag article-tag-list-link color4">Deep Learning</a>
 - <a href="javascript:void(0)" class="js-tag article-tag-list-link color4">NLP</a>
-- <a href="javascript:void(0)" class="js-tag article-tag-list-link color4">RNN</a>
 - <a href="javascript:void(0)" class="js-tag article-tag-list-link color5">论文笔记</a>
-
-<span class="tooltip-item"> <a href="javascript:;" class="share-sns share-outer"><em></em></a> </span> <span class="tooltip-content"> </span>
-
-<a href="javascript:;" class="weibo share-sns" data-type="weibo"><em></em></a> <a href="javascript:;" class="weixin share-sns wxFab" data-type="weixin"><em></em></a> <a href="javascript:;" class="qq share-sns" data-type="qq"><em></em></a> <a href="javascript:;" class="douban share-sns" data-type="douban"><em></em></a> <a href="javascript:;" class="qzone share-sns" data-type="qzone"><em></em></a> <a href="javascript:;" class="facebook share-sns" data-type="facebook"><em></em></a> <a href="javascript:;" class="twitter share-sns" data-type="twitter"><em></em></a> <a href="javascript:;" class="google share-sns" data-type="google"><em></em></a>
-
-<a href="javascript:;" class="close js-modal-close"><em></em></a>
-
-扫一扫，分享到微信
-
-![微信分享二维码](http://s.jiathis.com/qrcode.php?url=https://tobiaslee.top/2018/04/19/IndRNN-Notes/)

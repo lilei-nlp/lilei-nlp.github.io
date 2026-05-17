@@ -853,18 +853,5 @@ dis_train_op, dis_grads, dis_vars = model_optimization.create_dis_train_op(
 ## <a href="#Summary" class="headerlink" title="Summary"></a>Summary
 
 这篇文章存了有一个礼拜才写完，总算是赶完了；代码部分读的还是很粗糙，接下来会继续把几篇 GAN + NLP 的文章好好读一下写笔记，跑个 Demo，然后试着写一篇 Overview 出来看看能不能忽悠住大家（逃
-
-- <a href="javascript:void(0)" class="js-tag article-tag-list-link color4">Deep Learning</a>
 - <a href="javascript:void(0)" class="js-tag article-tag-list-link color4">NLP</a>
-- <a href="javascript:void(0)" class="js-tag article-tag-list-link color4">GAN</a>
 - <a href="javascript:void(0)" class="js-tag article-tag-list-link color5">论文笔记</a>
-
-<span class="tooltip-item"> <a href="javascript:;" class="share-sns share-outer"><em></em></a> </span> <span class="tooltip-content"> </span>
-
-<a href="javascript:;" class="weibo share-sns" data-type="weibo"><em></em></a> <a href="javascript:;" class="weixin share-sns wxFab" data-type="weixin"><em></em></a> <a href="javascript:;" class="qq share-sns" data-type="qq"><em></em></a> <a href="javascript:;" class="douban share-sns" data-type="douban"><em></em></a> <a href="javascript:;" class="qzone share-sns" data-type="qzone"><em></em></a> <a href="javascript:;" class="facebook share-sns" data-type="facebook"><em></em></a> <a href="javascript:;" class="twitter share-sns" data-type="twitter"><em></em></a> <a href="javascript:;" class="google share-sns" data-type="google"><em></em></a>
-
-<a href="javascript:;" class="close js-modal-close"><em></em></a>
-
-扫一扫，分享到微信
-
-![微信分享二维码](http://s.jiathis.com/qrcode.php?url=https://tobiaslee.top/2018/04/01/MaskGAN-Notes/)

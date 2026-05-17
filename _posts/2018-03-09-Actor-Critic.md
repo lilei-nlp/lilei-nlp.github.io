@@ -122,7 +122,6 @@ class Critic:
         with tf.variable_scope(&quot;train&quot;):
             self.train_op = tf.train.AdamOptimizer(lr).minimize(self.loss)
 
-
     def learn_state(self, s, r, s_):
         # advantage function A = r + V_t+1 - V_t
         s, s_ = s[np.newaxis, :], s_[np.newaxis, :]
@@ -237,16 +236,4 @@ for i_episode in range(MAX_EPISODE):
 <a href="https://zhuanlan.zhihu.com/p/29486661" target="_blank" rel="noopener">知乎- Actor-Critic 算法小结</a>
 
 <a href="https://www.youtube.com/watch?v=tWNpiNzWuO8&amp;index=4&amp;list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3" target="_blank" rel="noopener">CS294-112 9/6/17</a>
-
-- <a href="javascript:void(0)" class="js-tag article-tag-list-link color4">Deep Learning</a>
 - <a href="javascript:void(0)" class="js-tag article-tag-list-link color3">Reinforcement Learning</a>
-
-<span class="tooltip-item"> <a href="javascript:;" class="share-sns share-outer"><em></em></a> </span> <span class="tooltip-content"> </span>
-
-<a href="javascript:;" class="weibo share-sns" data-type="weibo"><em></em></a> <a href="javascript:;" class="weixin share-sns wxFab" data-type="weixin"><em></em></a> <a href="javascript:;" class="qq share-sns" data-type="qq"><em></em></a> <a href="javascript:;" class="douban share-sns" data-type="douban"><em></em></a> <a href="javascript:;" class="qzone share-sns" data-type="qzone"><em></em></a> <a href="javascript:;" class="facebook share-sns" data-type="facebook"><em></em></a> <a href="javascript:;" class="twitter share-sns" data-type="twitter"><em></em></a> <a href="javascript:;" class="google share-sns" data-type="google"><em></em></a>
-
-<a href="javascript:;" class="close js-modal-close"><em></em></a>
-
-扫一扫，分享到微信
-
-![微信分享二维码](http://s.jiathis.com/qrcode.php?url=https://tobiaslee.top/2018/03/09/Actor-Critic/)

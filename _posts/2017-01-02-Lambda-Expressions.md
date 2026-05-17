@@ -207,15 +207,3 @@ repeat(10,value -&gt; System.out.println(&quot;Countdown:&quot; + ( 9  - value))
 Lambda表达式主要用在函数式接口（只有一个抽象方法的接口）上来取代臃肿的内部类创建过程。  
 注意传入的参数要和函数的参数匹配。  
 Lambda有闭包，但是只能捕获最终变量（effective final) 即改变量初始化后不会再被更新，比如字符串常量。
-
-- <a href="javascript:void(0)" class="js-tag article-tag-list-link color5">Java</a>
-
-<span class="tooltip-item"> <a href="javascript:;" class="share-sns share-outer"><em></em></a> </span> <span class="tooltip-content"> </span>
-
-<a href="javascript:;" class="weibo share-sns" data-type="weibo"><em></em></a> <a href="javascript:;" class="weixin share-sns wxFab" data-type="weixin"><em></em></a> <a href="javascript:;" class="qq share-sns" data-type="qq"><em></em></a> <a href="javascript:;" class="douban share-sns" data-type="douban"><em></em></a> <a href="javascript:;" class="qzone share-sns" data-type="qzone"><em></em></a> <a href="javascript:;" class="facebook share-sns" data-type="facebook"><em></em></a> <a href="javascript:;" class="twitter share-sns" data-type="twitter"><em></em></a> <a href="javascript:;" class="google share-sns" data-type="google"><em></em></a>
-
-<a href="javascript:;" class="close js-modal-close"><em></em></a>
-
-扫一扫，分享到微信
-
-![微信分享二维码](http://s.jiathis.com/qrcode.php?url=https://tobiaslee.top/2017/01/02/Lambda-Expressions/)

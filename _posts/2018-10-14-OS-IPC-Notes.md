@@ -149,7 +149,6 @@ void* produce(void* arg) { // 生产者函数
     return (void*) 1;
 }
 
-
 void* consume(void* arg) {
    int i ;
   for(i = 0 ; i &lt; MAX * 4; i ++ ){
@@ -335,7 +334,6 @@ struct data{
     int write_counter;
    int value;
 } share_data;
-
 
 int READ_THREAD_NUM = 5;
 int WRITE_THREAD_NUM = 3;
@@ -700,15 +698,3 @@ int main() {
 总结一下，IPC 的实现借助了信号量和互斥量完成资源的共享访问。换一个视角，原先我说的那种 overhead 很大的实现方式（即每个操作都做成原子化），其实差别就在于**原子化的粒度**，粒度越大越能够保证线程间不会相互干扰，但随之而来的就是性能的下降；而信号量和互斥量用一个比较小的粒度，对一些关键变量进行保护，从而在不带来大量 overhead 的情况下实现了线程之间的共享变量。
 
 OS 真的是博大精深，是需要好好学的，个人觉得虽然不至于要到能搓一个内核的水平，但对其实现的原理必须还是有个清楚的认知，不然愧对科班出身这个身份。
-
-- <a href="javascript:void(0)" class="js-tag article-tag-list-link color3">OS</a>
-
-<span class="tooltip-item"> <a href="javascript:;" class="share-sns share-outer"><em></em></a> </span> <span class="tooltip-content"> </span>
-
-<a href="javascript:;" class="weibo share-sns" data-type="weibo"><em></em></a> <a href="javascript:;" class="weixin share-sns wxFab" data-type="weixin"><em></em></a> <a href="javascript:;" class="qq share-sns" data-type="qq"><em></em></a> <a href="javascript:;" class="douban share-sns" data-type="douban"><em></em></a> <a href="javascript:;" class="qzone share-sns" data-type="qzone"><em></em></a> <a href="javascript:;" class="facebook share-sns" data-type="facebook"><em></em></a> <a href="javascript:;" class="twitter share-sns" data-type="twitter"><em></em></a> <a href="javascript:;" class="google share-sns" data-type="google"><em></em></a>
-
-<a href="javascript:;" class="close js-modal-close"><em></em></a>
-
-扫一扫，分享到微信
-
-![微信分享二维码](http://s.jiathis.com/qrcode.php?url=https://tobiaslee.top/2018/10/14/OS-IPC-Notes/)

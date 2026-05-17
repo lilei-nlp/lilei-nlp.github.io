@@ -484,17 +484,4 @@ RNN，循环神经网络，公式和原理主要是在这篇 <a href="http://col
 2.  在小数据集上跑的时候，词袋模型比 RNN 的效果好很多。RNN的准确率在 31% ~ 38% 之间浮动，而词袋模型在58%左右；大数据集 RNN 在 87 % 而 词袋模型达到了 97 %！
 
 这篇文章写的还是比较仓促，很多细节部分都没有深究，也只是这个方向上的第一步探索，接下来会对细节的一些地方进行深入的理解。
-
-- <a href="javascript:void(0)" class="js-tag article-tag-list-link color4">NLP</a>
 - <a href="javascript:void(0)" class="js-tag article-tag-list-link color2">Machine Learning</a>
-- <a href="javascript:void(0)" class="js-tag article-tag-list-link color1">TensorFlow</a>
-
-<span class="tooltip-item"> <a href="javascript:;" class="share-sns share-outer"><em></em></a> </span> <span class="tooltip-content"> </span>
-
-<a href="javascript:;" class="weibo share-sns" data-type="weibo"><em></em></a> <a href="javascript:;" class="weixin share-sns wxFab" data-type="weixin"><em></em></a> <a href="javascript:;" class="qq share-sns" data-type="qq"><em></em></a> <a href="javascript:;" class="douban share-sns" data-type="douban"><em></em></a> <a href="javascript:;" class="qzone share-sns" data-type="qzone"><em></em></a> <a href="javascript:;" class="facebook share-sns" data-type="facebook"><em></em></a> <a href="javascript:;" class="twitter share-sns" data-type="twitter"><em></em></a> <a href="javascript:;" class="google share-sns" data-type="google"><em></em></a>
-
-<a href="javascript:;" class="close js-modal-close"><em></em></a>
-
-扫一扫，分享到微信
-
-![微信分享二维码](http://s.jiathis.com/qrcode.php?url=https://tobiaslee.top/2017/08/07/Text-Classification代码学习笔记/)

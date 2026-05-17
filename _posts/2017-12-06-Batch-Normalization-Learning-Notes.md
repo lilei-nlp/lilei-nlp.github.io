@@ -75,16 +75,4 @@ Batch Normalization 带来的好处有以下几点：
 4.  能够起到一定的 Regularization 作用，可以去除 Dropout 和使用更小的 L2 罚项。
 
 前面三点都是因为减轻了 Internal Covariate Shift 带来的好处，而第四点，Overfitting 实质上是 traning data 中的 noise 导致，通过 Normalization 我们可以消除这个 nosie，从而起到一定的 Regularization 作用。
-
-- <a href="javascript:void(0)" class="js-tag article-tag-list-link color4">Deep Learning</a>
 - <a href="javascript:void(0)" class="js-tag article-tag-list-link color1">Neural Networks</a>
-
-<span class="tooltip-item"> <a href="javascript:;" class="share-sns share-outer"><em></em></a> </span> <span class="tooltip-content"> </span>
-
-<a href="javascript:;" class="weibo share-sns" data-type="weibo"><em></em></a> <a href="javascript:;" class="weixin share-sns wxFab" data-type="weixin"><em></em></a> <a href="javascript:;" class="qq share-sns" data-type="qq"><em></em></a> <a href="javascript:;" class="douban share-sns" data-type="douban"><em></em></a> <a href="javascript:;" class="qzone share-sns" data-type="qzone"><em></em></a> <a href="javascript:;" class="facebook share-sns" data-type="facebook"><em></em></a> <a href="javascript:;" class="twitter share-sns" data-type="twitter"><em></em></a> <a href="javascript:;" class="google share-sns" data-type="google"><em></em></a>
-
-<a href="javascript:;" class="close js-modal-close"><em></em></a>
-
-扫一扫，分享到微信
-
-![微信分享二维码](http://s.jiathis.com/qrcode.php?url=https://tobiaslee.top/2017/12/06/Batch-Normalization-Learning-Notes/)

@@ -144,16 +144,4 @@ tags: []
 一开始学编译原理，觉得是非常高大上的一门课，而随着抽丝剥茧把前端各个阶段分开来，一点一点学起来，还是非常有趣的。并且亲手写了一个简单的解释器，成就感还是爆棚的。此外，也切实感受到软件工程的重要性，如果不能够把任务分解成可实现的小块，而是一上来丢给你一个**写一个解释器**的大目标，是很难有信心完成它的。
 
 另外，明天就考试了，祝自己好运！
-
-- <a href="javascript:void(0)" class="js-tag article-tag-list-link color3">Compile Principle</a>
 - <a href="javascript:void(0)" class="js-tag article-tag-list-link color3">Course Notes</a>
-
-<span class="tooltip-item"> <a href="javascript:;" class="share-sns share-outer"><em></em></a> </span> <span class="tooltip-content"> </span>
-
-<a href="javascript:;" class="weibo share-sns" data-type="weibo"><em></em></a> <a href="javascript:;" class="weixin share-sns wxFab" data-type="weixin"><em></em></a> <a href="javascript:;" class="qq share-sns" data-type="qq"><em></em></a> <a href="javascript:;" class="douban share-sns" data-type="douban"><em></em></a> <a href="javascript:;" class="qzone share-sns" data-type="qzone"><em></em></a> <a href="javascript:;" class="facebook share-sns" data-type="facebook"><em></em></a> <a href="javascript:;" class="twitter share-sns" data-type="twitter"><em></em></a> <a href="javascript:;" class="google share-sns" data-type="google"><em></em></a>
-
-<a href="javascript:;" class="close js-modal-close"><em></em></a>
-
-扫一扫，分享到微信
-
-![微信分享二维码](http://s.jiathis.com/qrcode.php?url=https://tobiaslee.top/2019/01/15/compile-principle-notes/)

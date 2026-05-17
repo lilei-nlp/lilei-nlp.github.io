@@ -64,17 +64,4 @@ VAE 用于文本生成的思路是这样的：将真实的文本交给一个 Enc
 1.  [Generating Sentences from a Continuous Space]()：提出用 VAE 做文本生成
 2.  <a href="https://arxiv.org/pdf/1702.02390.pdf" target="_blank" rel="noopener">A Hybrid Convolutional Variational Autoencoder for Text Generation</a>：对 Encoder 和 Decoder 的网络结构进行了修改，采用 CNN 和 RNN 的混合。
 3.  <a href="http://proceedings.mlr.press/v70/hu17e/hu17e.pdf" target="_blank" rel="noopener">Toward Controlled Generation of Text</a> ：生成属性能够控制的文本（比如情感极性、句子的时态），通过在 $z$ 中挖出一块来编码语义要求信息，增加相应的 loss 来引导 model 生成我们想要的文本。
-
-- <a href="javascript:void(0)" class="js-tag article-tag-list-link color4">NLP</a>
 - <a href="javascript:void(0)" class="js-tag article-tag-list-link color4">GAN</a>
-- <a href="javascript:void(0)" class="js-tag article-tag-list-link color1">Text Generation</a>
-
-<span class="tooltip-item"> <a href="javascript:;" class="share-sns share-outer"><em></em></a> </span> <span class="tooltip-content"> </span>
-
-<a href="javascript:;" class="weibo share-sns" data-type="weibo"><em></em></a> <a href="javascript:;" class="weixin share-sns wxFab" data-type="weixin"><em></em></a> <a href="javascript:;" class="qq share-sns" data-type="qq"><em></em></a> <a href="javascript:;" class="douban share-sns" data-type="douban"><em></em></a> <a href="javascript:;" class="qzone share-sns" data-type="qzone"><em></em></a> <a href="javascript:;" class="facebook share-sns" data-type="facebook"><em></em></a> <a href="javascript:;" class="twitter share-sns" data-type="twitter"><em></em></a> <a href="javascript:;" class="google share-sns" data-type="google"><em></em></a>
-
-<a href="javascript:;" class="close js-modal-close"><em></em></a>
-
-扫一扫，分享到微信
-
-![微信分享二维码](http://s.jiathis.com/qrcode.php?url=https://tobiaslee.top/2018/06/09/Brief-overview-of-text-generation/)

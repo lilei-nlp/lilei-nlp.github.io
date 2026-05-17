@@ -29,16 +29,4 @@ tags: []
 Anyway，革命尚未成功，还需加把劲。这个社会还是很残酷的，我个人的看法是没有实质性的产出例如 Paper，那么很多付出不是说没有意义，而是说很难量化。希望能在不久的将来有一些成果吧。
 
 希望新年的大家都能够年少有为！
-
-- <a href="javascript:void(0)" class="js-tag article-tag-list-link color3">随笔</a>
 - <a href="javascript:void(0)" class="js-tag article-tag-list-link color4">NLP</a>
-
-<span class="tooltip-item"> <a href="javascript:;" class="share-sns share-outer"><em></em></a> </span> <span class="tooltip-content"> </span>
-
-<a href="javascript:;" class="weibo share-sns" data-type="weibo"><em></em></a> <a href="javascript:;" class="weixin share-sns wxFab" data-type="weixin"><em></em></a> <a href="javascript:;" class="qq share-sns" data-type="qq"><em></em></a> <a href="javascript:;" class="douban share-sns" data-type="douban"><em></em></a> <a href="javascript:;" class="qzone share-sns" data-type="qzone"><em></em></a> <a href="javascript:;" class="facebook share-sns" data-type="facebook"><em></em></a> <a href="javascript:;" class="twitter share-sns" data-type="twitter"><em></em></a> <a href="javascript:;" class="google share-sns" data-type="google"><em></em></a>
-
-<a href="javascript:;" class="close js-modal-close"><em></em></a>
-
-扫一扫，分享到微信
-
-![微信分享二维码](http://s.jiathis.com/qrcode.php?url=https://tobiaslee.top/2019/02/23/what-I-learned-from-intership/)

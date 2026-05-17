@@ -49,17 +49,4 @@ MaskGAN 的思路则是从**生成器端**来为生成提供更多的信息，�
 1.  提高生成文本的质量：我认为，将人类的语言学知识合理地整合进生成的过程，是提高文本生成质量的核心。现有的工作大致是从两个端入手，生成器端通过 Masked Token，比较粗暴地灌进 Generator，Discriminator 端利用句子地相似性，隐式地给判别器端输入语言的知识。**二者如果能够做一个结合，可能是一个很有力的架构**。
 2.  短文本 -&gt; 长文本：想要生成长文本，一点是 LeakGAN 中提到的，Discriminator 的指导需要更加 informative；另外一点我觉得和 RNN 的 Long-dependency 的能力也息息相关，LSTM 虽然说能够解决长程依赖的一部分问题，但想要让机器写小说，那就不是 LSTM 能够 handle 的了。LeakGAN 能够把 SeqGAN 的长度由 20 提升到 40左右，但真的到作曲、写小说这种长度，可能需要一个新的框架。
 3.  解决 Mode Collapse 问题：这个问题可能是前两个问题解决之后，才需要着手考虑的一个问题，即使是我们人类本身，也有着这方面的局限性。比如你的文风事实上就是被你所读过的文章所决定地，虽然说会有一些神来之笔，但我认为那也是早就植根于我们大脑深处的记忆。想要做到真正地创作而不是简单地重复，任重而道远。
-
-- <a href="javascript:void(0)" class="js-tag article-tag-list-link color4">Deep Learning</a>
 - <a href="javascript:void(0)" class="js-tag article-tag-list-link color4">NLP</a>
-- <a href="javascript:void(0)" class="js-tag article-tag-list-link color4">GAN</a>
-
-<span class="tooltip-item"> <a href="javascript:;" class="share-sns share-outer"><em></em></a> </span> <span class="tooltip-content"> </span>
-
-<a href="javascript:;" class="weibo share-sns" data-type="weibo"><em></em></a> <a href="javascript:;" class="weixin share-sns wxFab" data-type="weixin"><em></em></a> <a href="javascript:;" class="qq share-sns" data-type="qq"><em></em></a> <a href="javascript:;" class="douban share-sns" data-type="douban"><em></em></a> <a href="javascript:;" class="qzone share-sns" data-type="qzone"><em></em></a> <a href="javascript:;" class="facebook share-sns" data-type="facebook"><em></em></a> <a href="javascript:;" class="twitter share-sns" data-type="twitter"><em></em></a> <a href="javascript:;" class="google share-sns" data-type="google"><em></em></a>
-
-<a href="javascript:;" class="close js-modal-close"><em></em></a>
-
-扫一扫，分享到微信
-
-![微信分享二维码](http://s.jiathis.com/qrcode.php?url=https://tobiaslee.top/2018/04/22/GAN-in-NLP-Notes/)

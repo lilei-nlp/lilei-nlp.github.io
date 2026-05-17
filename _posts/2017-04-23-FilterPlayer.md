@@ -298,7 +298,6 @@ FullFrameRect其实就是一个精灵(sprite)，作为渲染的中间体，真�
         this.seekBar = seekBar;
     }
 
-
     public void updateFilter() {
         Texture2dProgram.ProgramType programType;
         float[] kernel = null;
@@ -402,17 +401,4 @@ FullFrameRect其实就是一个精灵(sprite)，作为渲染的中间体，真�
 ​项目地址 <a href="https://github.com/lileizhenshuai/FilterPlayer" target="_blank" rel="noopener">FIlterPlayer</a>
 
 ​接下来会努力把本地化保存做好，然后更新这个代码哒。
-
-- <a href="javascript:void(0)" class="js-tag article-tag-list-link color3">Android</a>
 - <a href="javascript:void(0)" class="js-tag article-tag-list-link color1">MediaCodec</a>
-- <a href="javascript:void(0)" class="js-tag article-tag-list-link color2">OpenGL</a>
-
-<span class="tooltip-item"> <a href="javascript:;" class="share-sns share-outer"><em></em></a> </span> <span class="tooltip-content"> </span>
-
-<a href="javascript:;" class="weibo share-sns" data-type="weibo"><em></em></a> <a href="javascript:;" class="weixin share-sns wxFab" data-type="weixin"><em></em></a> <a href="javascript:;" class="qq share-sns" data-type="qq"><em></em></a> <a href="javascript:;" class="douban share-sns" data-type="douban"><em></em></a> <a href="javascript:;" class="qzone share-sns" data-type="qzone"><em></em></a> <a href="javascript:;" class="facebook share-sns" data-type="facebook"><em></em></a> <a href="javascript:;" class="twitter share-sns" data-type="twitter"><em></em></a> <a href="javascript:;" class="google share-sns" data-type="google"><em></em></a>
-
-<a href="javascript:;" class="close js-modal-close"><em></em></a>
-
-扫一扫，分享到微信
-
-![微信分享二维码](http://s.jiathis.com/qrcode.php?url=https://tobiaslee.top/2017/04/23/FilterPlayer/)

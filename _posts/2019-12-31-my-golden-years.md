@@ -39,15 +39,3 @@ tags: []
 - 养成良好的理财观念：钱是我们无法回避的话题，掌握基本的理财知识，例如区分资产和负债，对于财富的积累有着重大的帮助。断断续续也在股市上已经交了不少的学费，有机会能够系统地梳理一遍，形成自己的投资框架，早日获得”睡后收入“。
 
 希望接下来的日子里，自己能够保持健康，抓住能够抓住的机会，见识更大的世界。感谢这一路以来遇到的所有人，祝大家新年快乐！
-
-- <a href="javascript:void(0)" class="js-tag article-tag-list-link color3">随笔</a>
-
-<span class="tooltip-item"> <a href="javascript:;" class="share-sns share-outer"><em></em></a> </span> <span class="tooltip-content"> </span>
-
-<a href="javascript:;" class="weibo share-sns" data-type="weibo"><em></em></a> <a href="javascript:;" class="weixin share-sns wxFab" data-type="weixin"><em></em></a> <a href="javascript:;" class="qq share-sns" data-type="qq"><em></em></a> <a href="javascript:;" class="douban share-sns" data-type="douban"><em></em></a> <a href="javascript:;" class="qzone share-sns" data-type="qzone"><em></em></a> <a href="javascript:;" class="facebook share-sns" data-type="facebook"><em></em></a> <a href="javascript:;" class="twitter share-sns" data-type="twitter"><em></em></a> <a href="javascript:;" class="google share-sns" data-type="google"><em></em></a>
-
-<a href="javascript:;" class="close js-modal-close"><em></em></a>
-
-扫一扫，分享到微信
-
-![微信分享二维码](http://s.jiathis.com/qrcode.php?url=https://tobiaslee.top/2019/12/31/my-golden-years/)

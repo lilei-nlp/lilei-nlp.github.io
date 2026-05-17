@@ -398,15 +398,3 @@ int main() {
     ## <a href="#感受" class="headerlink" title="感受"></a>感受
 
     静态联编和动态联编和 JVM 的静态分配合动态分配很类似，不过不同的就是 Java 中的继承和重载比 C++ 简单了很多，更加解放了程序员，而不必操心这些有的没的（逃
-
-- <a href="javascript:void(0)" class="js-tag article-tag-list-link color4">C++</a>
-
-<span class="tooltip-item"> <a href="javascript:;" class="share-sns share-outer"><em></em></a> </span> <span class="tooltip-content"> </span>
-
-<a href="javascript:;" class="weibo share-sns" data-type="weibo"><em></em></a> <a href="javascript:;" class="weixin share-sns wxFab" data-type="weixin"><em></em></a> <a href="javascript:;" class="qq share-sns" data-type="qq"><em></em></a> <a href="javascript:;" class="douban share-sns" data-type="douban"><em></em></a> <a href="javascript:;" class="qzone share-sns" data-type="qzone"><em></em></a> <a href="javascript:;" class="facebook share-sns" data-type="facebook"><em></em></a> <a href="javascript:;" class="twitter share-sns" data-type="twitter"><em></em></a> <a href="javascript:;" class="google share-sns" data-type="google"><em></em></a>
-
-<a href="javascript:;" class="close js-modal-close"><em></em></a>
-
-扫一扫，分享到微信
-
-![微信分享二维码](http://s.jiathis.com/qrcode.php?url=https://tobiaslee.top/2017/12/14/Virtual-Methods-in-C-Learning-Notes/)

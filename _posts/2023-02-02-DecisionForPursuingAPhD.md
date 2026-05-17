@@ -59,15 +59,3 @@ ChatGPT 应该已经出来有一阵子，并且迭代了不少版本，可以这
 ![Email Helper](/img/email-helper.png)
 
 因此，我希望我的 PhD 生涯能够在基础模型层做一些研究和尝试，并且或许会找一些志同道合的朋友，一起在应用层搞点事情！
-
-- <a href="javascript:void(0)" class="js-tag article-tag-list-link color3">随笔</a>
-
-<span class="tooltip-item"> <a href="javascript:;" class="share-sns share-outer"><em></em></a> </span> <span class="tooltip-content"> </span>
-
-<a href="javascript:;" class="weibo share-sns" data-type="weibo"><em></em></a> <a href="javascript:;" class="weixin share-sns wxFab" data-type="weixin"><em></em></a> <a href="javascript:;" class="qq share-sns" data-type="qq"><em></em></a> <a href="javascript:;" class="douban share-sns" data-type="douban"><em></em></a> <a href="javascript:;" class="qzone share-sns" data-type="qzone"><em></em></a> <a href="javascript:;" class="facebook share-sns" data-type="facebook"><em></em></a> <a href="javascript:;" class="twitter share-sns" data-type="twitter"><em></em></a> <a href="javascript:;" class="google share-sns" data-type="google"><em></em></a>
-
-<a href="javascript:;" class="close js-modal-close"><em></em></a>
-
-扫一扫，分享到微信
-
-![微信分享二维码](http://s.jiathis.com/qrcode.php?url=https://tobiaslee.top/2023/02/02/DecisionForPursuingAPhD/)

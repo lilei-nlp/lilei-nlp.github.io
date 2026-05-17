@@ -357,16 +357,4 @@ train_data = mnli_datasets[&#39;train&#39;].remove_columns(&#39;text&#39;)</code
 - 模型训练方面，得益于 DDP 和 混合精度，在 MNLI 上训增强数据 10 轮，3 块卡花费的时间大约在 20h 左右，提速了 10 倍。
 
 这次修改代码大概花了 2 天时间来实现和 debug，不过感觉收益还是挺大的，此处需要感谢任大佬 & 脸折师兄的建议，以及 andy 提供的知乎文章，撒花~
-
-- <a href="javascript:void(0)" class="js-tag article-tag-list-link color4">NLP</a>
 - <a href="javascript:void(0)" class="js-tag article-tag-list-link color3">PyTorch</a>
-
-<span class="tooltip-item"> <a href="javascript:;" class="share-sns share-outer"><em></em></a> </span> <span class="tooltip-content"> </span>
-
-<a href="javascript:;" class="weibo share-sns" data-type="weibo"><em></em></a> <a href="javascript:;" class="weixin share-sns wxFab" data-type="weixin"><em></em></a> <a href="javascript:;" class="qq share-sns" data-type="qq"><em></em></a> <a href="javascript:;" class="douban share-sns" data-type="douban"><em></em></a> <a href="javascript:;" class="qzone share-sns" data-type="qzone"><em></em></a> <a href="javascript:;" class="facebook share-sns" data-type="facebook"><em></em></a> <a href="javascript:;" class="twitter share-sns" data-type="twitter"><em></em></a> <a href="javascript:;" class="google share-sns" data-type="google"><em></em></a>
-
-<a href="javascript:;" class="close js-modal-close"><em></em></a>
-
-扫一扫，分享到微信
-
-![微信分享二维码](http://s.jiathis.com/qrcode.php?url=https://tobiaslee.top/2021/04/16/Improving-Training-Efficiency-of-TinyBERT/)

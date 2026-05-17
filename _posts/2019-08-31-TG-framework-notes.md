@@ -95,16 +95,4 @@ HuggingFace 我没用过，但是组里师兄有不少用它的，因为它对**
 最近没怎么更新 Blog，一方面是因为实验室的砖确实比较多，搬不怎么过来，另外一方面，也是这段时间**忙于 coding，没有时间整理**。但还是要保持读文章的习惯，做好笔记！
 
 然后是清华的 NLP 小组收集整理了一波 <a href="https://github.com/THUNLP-MT/TG-Reading-List" target="_blank" rel="noopener">Text Generation</a> 的文章，大家可以配合着这些框架，把一些有意思的文章复现一下，说不定，一篇顶会就出来啦！
-
-- <a href="javascript:void(0)" class="js-tag article-tag-list-link color4">NLP</a>
 - <a href="javascript:void(0)" class="js-tag article-tag-list-link color1">Text Generation</a>
-
-<span class="tooltip-item"> <a href="javascript:;" class="share-sns share-outer"><em></em></a> </span> <span class="tooltip-content"> </span>
-
-<a href="javascript:;" class="weibo share-sns" data-type="weibo"><em></em></a> <a href="javascript:;" class="weixin share-sns wxFab" data-type="weixin"><em></em></a> <a href="javascript:;" class="qq share-sns" data-type="qq"><em></em></a> <a href="javascript:;" class="douban share-sns" data-type="douban"><em></em></a> <a href="javascript:;" class="qzone share-sns" data-type="qzone"><em></em></a> <a href="javascript:;" class="facebook share-sns" data-type="facebook"><em></em></a> <a href="javascript:;" class="twitter share-sns" data-type="twitter"><em></em></a> <a href="javascript:;" class="google share-sns" data-type="google"><em></em></a>
-
-<a href="javascript:;" class="close js-modal-close"><em></em></a>
-
-扫一扫，分享到微信
-
-![微信分享二维码](http://s.jiathis.com/qrcode.php?url=https://tobiaslee.top/2019/08/31/TG-framework-notes/)

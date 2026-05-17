@@ -273,7 +273,6 @@ next(f) # 4
         return True
     return False
 
-
 def get_prime():
     cnt = 2
     while True:
@@ -423,15 +422,3 @@ public static void main(String[] args) {
 2.  **生成器是通过yield关键字来产生迭代器的函数**
 3.  **Java中类似的实现的Iterator和Iterable接口**
 4.  **多多纵向对比语言的实现，可以帮助更好的理解**
-
-- <a href="javascript:void(0)" class="js-tag article-tag-list-link color2">Python</a>
-
-<span class="tooltip-item"> <a href="javascript:;" class="share-sns share-outer"><em></em></a> </span> <span class="tooltip-content"> </span>
-
-<a href="javascript:;" class="weibo share-sns" data-type="weibo"><em></em></a> <a href="javascript:;" class="weixin share-sns wxFab" data-type="weixin"><em></em></a> <a href="javascript:;" class="qq share-sns" data-type="qq"><em></em></a> <a href="javascript:;" class="douban share-sns" data-type="douban"><em></em></a> <a href="javascript:;" class="qzone share-sns" data-type="qzone"><em></em></a> <a href="javascript:;" class="facebook share-sns" data-type="facebook"><em></em></a> <a href="javascript:;" class="twitter share-sns" data-type="twitter"><em></em></a> <a href="javascript:;" class="google share-sns" data-type="google"><em></em></a>
-
-<a href="javascript:;" class="close js-modal-close"><em></em></a>
-
-扫一扫，分享到微信
-
-![微信分享二维码](http://s.jiathis.com/qrcode.php?url=https://tobiaslee.top/2017/05/28/PythonLearning-Iterator/)

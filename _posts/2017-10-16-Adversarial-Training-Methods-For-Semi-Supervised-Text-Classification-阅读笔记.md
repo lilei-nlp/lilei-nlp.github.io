@@ -213,16 +213,4 @@ def add_perturbation(embedded, loss):
 2.  没有预先训练 embedding，而是和 Bi-LSTM 一起训练，每次都要重新进行 Normalization，训练速度慢，而且 Adversarial Example 对于 embedding 的依赖很大 所以导致效果也可能不是显著。
 3.  没有采用文章所采用的一些 Training 的 Trick，比如 gradient clip，loss 退火等
 4.  超参数没有经过 fine-tuning，比如 epsilon 选的是适合 IMDB dataset 的值，对于 DBpedia 还需要调整。
-
-- <a href="javascript:void(0)" class="js-tag article-tag-list-link color4">Deep Learning</a>
 - <a href="javascript:void(0)" class="js-tag article-tag-list-link color4">NLP</a>
-
-<span class="tooltip-item"> <a href="javascript:;" class="share-sns share-outer"><em></em></a> </span> <span class="tooltip-content"> </span>
-
-<a href="javascript:;" class="weibo share-sns" data-type="weibo"><em></em></a> <a href="javascript:;" class="weixin share-sns wxFab" data-type="weixin"><em></em></a> <a href="javascript:;" class="qq share-sns" data-type="qq"><em></em></a> <a href="javascript:;" class="douban share-sns" data-type="douban"><em></em></a> <a href="javascript:;" class="qzone share-sns" data-type="qzone"><em></em></a> <a href="javascript:;" class="facebook share-sns" data-type="facebook"><em></em></a> <a href="javascript:;" class="twitter share-sns" data-type="twitter"><em></em></a> <a href="javascript:;" class="google share-sns" data-type="google"><em></em></a>
-
-<a href="javascript:;" class="close js-modal-close"><em></em></a>
-
-扫一扫，分享到微信
-
-![微信分享二维码](http://s.jiathis.com/qrcode.php?url=https://tobiaslee.top/2017/10/16/Adversarial-Training-Methods-For-Semi-Supervised-Text-Classification-阅读笔记/)

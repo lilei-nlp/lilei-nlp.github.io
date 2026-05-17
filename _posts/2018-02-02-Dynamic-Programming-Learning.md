@@ -168,16 +168,4 @@ DP 的学习才刚刚开始，但这篇文章已经拖了很久，所以决定�
 2.  何时用滚动数组，优点缺点
 3.  memset 的使用注意点，对 int 数组只能设置为 0 或 -1（保证高字节和低字节相同）
 4.  边界情况的考虑
-
-- <a href="javascript:void(0)" class="js-tag article-tag-list-link color3">算法</a>
 - <a href="javascript:void(0)" class="js-tag article-tag-list-link color4">ACM</a>
-
-<span class="tooltip-item"> <a href="javascript:;" class="share-sns share-outer"><em></em></a> </span> <span class="tooltip-content"> </span>
-
-<a href="javascript:;" class="weibo share-sns" data-type="weibo"><em></em></a> <a href="javascript:;" class="weixin share-sns wxFab" data-type="weixin"><em></em></a> <a href="javascript:;" class="qq share-sns" data-type="qq"><em></em></a> <a href="javascript:;" class="douban share-sns" data-type="douban"><em></em></a> <a href="javascript:;" class="qzone share-sns" data-type="qzone"><em></em></a> <a href="javascript:;" class="facebook share-sns" data-type="facebook"><em></em></a> <a href="javascript:;" class="twitter share-sns" data-type="twitter"><em></em></a> <a href="javascript:;" class="google share-sns" data-type="google"><em></em></a>
-
-<a href="javascript:;" class="close js-modal-close"><em></em></a>
-
-扫一扫，分享到微信
-
-![微信分享二维码](http://s.jiathis.com/qrcode.php?url=https://tobiaslee.top/2018/02/02/Dynamic-Programming-Learning/)

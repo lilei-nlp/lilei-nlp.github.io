@@ -40,17 +40,4 @@ adversarial training 没起作用很大的一个原因就在于，discriminator 
 ## <a href="#Future" class="headerlink" title="Future"></a>Future
 
 展望一下未来，只能说 SeqGAN 这个坑不出意外还会吸引很多同学义无反顾地往里跳，想要做出一些东西，还是很有挑战性的。但是 RL 和 NLP 结合的思路是没什么大毛病的，Jiwei Li 最近的几篇 Dialogue 的文章也都是用着 RL，我觉得这一点很 fancy 的一个原因是我们可以通过设计 reward 来指导生成，这其实是蛮 hand-crafted 的，把**规则比较隐式地放进神经网络里**，或许 RL 是一条可以走的路；IRL 在 Text Generation 上的应用邱锡鹏老师也有一篇<a href="http://arxiv.org/abs/1804.11258" target="_blank" rel="noopener">文章</a>。希望自己也能够在这条路上走地更远一些~
-
-- <a href="javascript:void(0)" class="js-tag article-tag-list-link color4">NLP</a>
 - <a href="javascript:void(0)" class="js-tag article-tag-list-link color4">GAN</a>
-- <a href="javascript:void(0)" class="js-tag article-tag-list-link color1">Text Generation</a>
-
-<span class="tooltip-item"> <a href="javascript:;" class="share-sns share-outer"><em></em></a> </span> <span class="tooltip-content"> </span>
-
-<a href="javascript:;" class="weibo share-sns" data-type="weibo"><em></em></a> <a href="javascript:;" class="weixin share-sns wxFab" data-type="weixin"><em></em></a> <a href="javascript:;" class="qq share-sns" data-type="qq"><em></em></a> <a href="javascript:;" class="douban share-sns" data-type="douban"><em></em></a> <a href="javascript:;" class="qzone share-sns" data-type="qzone"><em></em></a> <a href="javascript:;" class="facebook share-sns" data-type="facebook"><em></em></a> <a href="javascript:;" class="twitter share-sns" data-type="twitter"><em></em></a> <a href="javascript:;" class="google share-sns" data-type="google"><em></em></a>
-
-<a href="javascript:;" class="close js-modal-close"><em></em></a>
-
-扫一扫，分享到微信
-
-![微信分享二维码](http://s.jiathis.com/qrcode.php?url=https://tobiaslee.top/2018/09/30/Text-Generation-with-GAN/)

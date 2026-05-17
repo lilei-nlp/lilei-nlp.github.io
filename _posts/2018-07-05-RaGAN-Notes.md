@@ -207,7 +207,6 @@ def discriminator(x):
 mnist = input_data.read_data_sets(&#39;MNIST_data&#39;, one_hot=True)
 X = tf.placeholder(tf.float32, shape=[None, 784], name=&quot;X&quot;)
 
-
 G_sample = generator(Z)
 D_real, D_logit_real = discriminator(X)
 D_fake, D_logit_fake = discriminator(G_sample)
@@ -298,11 +297,9 @@ G_solver = tf.train.AdamOptimizer().minimize(G_loss, var_list=theta_G)</code></p
 <td class="code"><pre><code>def sample_Z(m, n):
     return np.random.uniform(-1., 1., size=[m, n])
 
-
 steps = 1000001
 mb_size = 128
 Z_dim = 100
-
 
 def plot(samples):
     fig = plt.figure(figsize=(4, 4))
@@ -319,7 +316,6 @@ def plot(samples):
 
     plt.show(block=False)
     return fig
-
 
 with tf.Session() as sess:
     sess.run(tf.global_variables_initializer())
@@ -361,16 +357,4 @@ with tf.Session() as sess:
 ## <a href="#Summary" class="headerlink" title="Summary"></a>Summary
 
 GAN 的难训练是**臭名昭著**了，作者通过考虑引入相对这个概念来使得训练过程变得更加稳定。这类见微知著的工作，还有前不久的 IndRNN 真的非常符合我的胃口了。
-
-- <a href="javascript:void(0)" class="js-tag article-tag-list-link color4">Deep Learning</a>
 - <a href="javascript:void(0)" class="js-tag article-tag-list-link color4">GAN</a>
-
-<span class="tooltip-item"> <a href="javascript:;" class="share-sns share-outer"><em></em></a> </span> <span class="tooltip-content"> </span>
-
-<a href="javascript:;" class="weibo share-sns" data-type="weibo"><em></em></a> <a href="javascript:;" class="weixin share-sns wxFab" data-type="weixin"><em></em></a> <a href="javascript:;" class="qq share-sns" data-type="qq"><em></em></a> <a href="javascript:;" class="douban share-sns" data-type="douban"><em></em></a> <a href="javascript:;" class="qzone share-sns" data-type="qzone"><em></em></a> <a href="javascript:;" class="facebook share-sns" data-type="facebook"><em></em></a> <a href="javascript:;" class="twitter share-sns" data-type="twitter"><em></em></a> <a href="javascript:;" class="google share-sns" data-type="google"><em></em></a>
-
-<a href="javascript:;" class="close js-modal-close"><em></em></a>
-
-扫一扫，分享到微信
-
-![微信分享二维码](http://s.jiathis.com/qrcode.php?url=https://tobiaslee.top/2018/07/05/RaGAN-Notes/)

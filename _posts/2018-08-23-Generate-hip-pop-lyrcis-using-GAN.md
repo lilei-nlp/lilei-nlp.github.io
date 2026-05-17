@@ -137,17 +137,4 @@ next_token = tf.cast(tf.reshape(tf.multinomial(prob_masked, 1), [self.batch_size
 ## <a href="#结语" class="headerlink" title="结语"></a>结语
 
 在 DeeCamp 的一个月里，除了讲座以外，更让我觉得收获许多的是认识了很多非常优秀的小伙伴，以及开拓了自己的视野，看到了更大的舞台。我愈发地坚信，**未来的十年，是属于人工智能的，是属于愿意投身于这波浪潮中我们的**。也再次向大家安利一波 <a href="https://challenger.ai/" target="_blank" rel="noopener">DeeCamp</a>，如果你对人工智能感兴趣，明年暑假，千万别错过~ 最后希望 DeeCamp 能够一直办下去，并且越办越好！
-
-- <a href="javascript:void(0)" class="js-tag article-tag-list-link color4">Deep Learning</a>
 - <a href="javascript:void(0)" class="js-tag article-tag-list-link color1">Text Generation</a>
-- <a href="javascript:void(0)" class="js-tag article-tag-list-link color2">SeqGAN</a>
-
-<span class="tooltip-item"> <a href="javascript:;" class="share-sns share-outer"><em></em></a> </span> <span class="tooltip-content"> </span>
-
-<a href="javascript:;" class="weibo share-sns" data-type="weibo"><em></em></a> <a href="javascript:;" class="weixin share-sns wxFab" data-type="weixin"><em></em></a> <a href="javascript:;" class="qq share-sns" data-type="qq"><em></em></a> <a href="javascript:;" class="douban share-sns" data-type="douban"><em></em></a> <a href="javascript:;" class="qzone share-sns" data-type="qzone"><em></em></a> <a href="javascript:;" class="facebook share-sns" data-type="facebook"><em></em></a> <a href="javascript:;" class="twitter share-sns" data-type="twitter"><em></em></a> <a href="javascript:;" class="google share-sns" data-type="google"><em></em></a>
-
-<a href="javascript:;" class="close js-modal-close"><em></em></a>
-
-扫一扫，分享到微信
-
-![微信分享二维码](http://s.jiathis.com/qrcode.php?url=https://tobiaslee.top/2018/08/23/Generate-hip-pop-lyrcis-using-GAN/)

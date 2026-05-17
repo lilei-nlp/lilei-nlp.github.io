@@ -177,7 +177,6 @@ int checkPro(Stack* stack,char * s ){ //检测括号匹配
     return isEmpty(stack); // 如果扫描进行结束没有退出 栈为空则匹配 非空则说明有多余的左括号
 }
 
-
 int main(){
     Stack stack ;
    init(&amp;stack);
@@ -375,16 +374,4 @@ int main(){
 栈结构很强大，LIFO的特点使得它在表达式求值、相关匹配的算法题中起到很大作用。  
 但也不一定要拘泥于栈结构的形式，数组也可以作为栈。而且一般向量(数组)作为栈的  
 会以**向量尾部**作为栈顶，因为这样出栈的操作时间复杂度就是O(1) 而如果在头部， 则是**O(n) 和向量长度成正比**，值得注意。
-
-- <a href="javascript:void(0)" class="js-tag article-tag-list-link color5">数据结构</a>
 - <a href="javascript:void(0)" class="js-tag article-tag-list-link color2">栈</a>
-
-<span class="tooltip-item"> <a href="javascript:;" class="share-sns share-outer"><em></em></a> </span> <span class="tooltip-content"> </span>
-
-<a href="javascript:;" class="weibo share-sns" data-type="weibo"><em></em></a> <a href="javascript:;" class="weixin share-sns wxFab" data-type="weixin"><em></em></a> <a href="javascript:;" class="qq share-sns" data-type="qq"><em></em></a> <a href="javascript:;" class="douban share-sns" data-type="douban"><em></em></a> <a href="javascript:;" class="qzone share-sns" data-type="qzone"><em></em></a> <a href="javascript:;" class="facebook share-sns" data-type="facebook"><em></em></a> <a href="javascript:;" class="twitter share-sns" data-type="twitter"><em></em></a> <a href="javascript:;" class="google share-sns" data-type="google"><em></em></a>
-
-<a href="javascript:;" class="close js-modal-close"><em></em></a>
-
-扫一扫，分享到微信
-
-![微信分享二维码](http://s.jiathis.com/qrcode.php?url=https://tobiaslee.top/2017/02/13/DataStructureLearning-Stack2/)

@@ -480,7 +480,6 @@ test_images_idx3_ubyte_file = &#39;./t10k-images-idx3-ubyte&#39;
 # 测试集标签文件
 test_labels_idx1_ubyte_file = &#39;./t10k-labels-idx1-ubyte&#39;
 
-
 def decode_idx3_ubyte(idx3_ubyte_file):
     &quot;&quot;&quot;
     解析idx3文件的通用函数
@@ -507,7 +506,6 @@ def decode_idx3_ubyte(idx3_ubyte_file):
         images[i] = np.array(struct.unpack_from(fmt_image, bin_data, offset)).reshape((num_rows, num_cols))
         offset += struct.calcsize(fmt_image)
     return images
-
 
 def decode_idx1_ubyte(idx1_ubyte_file):
     &quot;&quot;&quot;
@@ -536,16 +534,13 @@ def decode_idx1_ubyte(idx1_ubyte_file):
         offset += struct.calcsize(fmt_image)
     return labels
 
-
 def load_train_images(idx_ubyte_file=train_images_idx3_ubyte_file):
     
     return decode_idx3_ubyte(idx_ubyte_file)
 
-
 def load_train_labels(idx_ubyte_file=train_labels_idx1_ubyte_file):
 
     return decode_idx1_ubyte(idx_ubyte_file)
-
 
 def load_test_images(idx_ubyte_file=test_images_idx3_ubyte_file):
     &quot;&quot;&quot;
@@ -565,7 +560,6 @@ def load_test_images(idx_ubyte_file=test_images_idx3_ubyte_file):
     :return: n*row*col维np.array对象，n为图片数量
     &quot;&quot;&quot;
     return decode_idx3_ubyte(idx_ubyte_file)
-
 
 def load_test_labels(idx_ubyte_file=test_labels_idx1_ubyte_file):
     &quot;&quot;&quot;
@@ -605,9 +599,6 @@ def mnistUsingKNN(train_dataSet, train_labels, test_dataSet, test_labels):
     print(&quot;Total num:&quot;, num, &quot; Wrong num:&quot;, \
           error_num, &quot;  CorrectRate:&quot;, (1-error_num / float(num)) * 100, &quot;%&quot;)
 
-
-
-
 def mnistUsingNN(train_dataSet, train_labels, test_dataSet, test_labels):
 
     clf = MLPClassifier(hidden_layer_sizes=(100, 50, 25),
@@ -641,7 +632,6 @@ if __name__ == &#39;__main__&#39;:
     train_dataSet = train_images.reshape(60000, 784)
     test_dataSet = test_images.reshape(10000, 784)
 
-
     mnistUsingNN(train_dataSet, train_labels, test_dataSet, test_labels)
     # mnistUsingKNN(train_dataSet, train_labels, test_dataSet,test_labels)</code></pre></td>
 </tr>
@@ -652,16 +642,4 @@ if __name__ == &#39;__main__&#39;:
 ​
 
 ​
-
-- <a href="javascript:void(0)" class="js-tag article-tag-list-link color2">Machine Learning</a>
 - <a href="javascript:void(0)" class="js-tag article-tag-list-link color2">Python</a>
-
-<span class="tooltip-item"> <a href="javascript:;" class="share-sns share-outer"><em></em></a> </span> <span class="tooltip-content"> </span>
-
-<a href="javascript:;" class="weibo share-sns" data-type="weibo"><em></em></a> <a href="javascript:;" class="weixin share-sns wxFab" data-type="weixin"><em></em></a> <a href="javascript:;" class="qq share-sns" data-type="qq"><em></em></a> <a href="javascript:;" class="douban share-sns" data-type="douban"><em></em></a> <a href="javascript:;" class="qzone share-sns" data-type="qzone"><em></em></a> <a href="javascript:;" class="facebook share-sns" data-type="facebook"><em></em></a> <a href="javascript:;" class="twitter share-sns" data-type="twitter"><em></em></a> <a href="javascript:;" class="google share-sns" data-type="google"><em></em></a>
-
-<a href="javascript:;" class="close js-modal-close"><em></em></a>
-
-扫一扫，分享到微信
-
-![微信分享二维码](http://s.jiathis.com/qrcode.php?url=https://tobiaslee.top/2017/07/09/MNIST手写数字识别-Python/)
