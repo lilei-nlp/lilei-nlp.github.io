@@ -72,6 +72,9 @@ author:
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=MeV4GGsAAAAJ"
+    - label: "RedNote (Xiaohongshu)"
+      icon: "fas fa-fw fa-book"
+      url: "https://www.xiaohongshu.com/user/profile/5b89ff0e83234400016d3a90"
 
 defaults:
   # _posts (blog posts)
