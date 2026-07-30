@@ -14,6 +14,7 @@ I'm always happy to discuss potential collaborations—feel free to reach out!
 
 
 ## News
+* [2026/07] One paper ([AnalogRetriever](https://yihan-wa.github.io/AnalogRetriever/)) accepted at ICCAD 2026!
 * [2025/11] One paper accepted at AAAI 2026. Received <span style="color: #d4af37; font-weight: bold;">Outstanding Area Chair Award</span> at EMNLP 2025!
 * [2025/08] Two papers accepted by EMNLP 2025 and one by ACM MM 2025!
 * [2025/02] VL-RewardBench and Video-MME got accepted by CVPR 2025 and both got Highlight (Top 3%)!
@@ -145,7 +146,8 @@ Bowen Ye, Rang Li, Qibin Yang, Yuanxin Liu, Linli Yao, Hanglong Lv, Zhihui Xie, 
 
 
 ## Academic Service
-- **Area Chair / Action Editor**: ACL ARR (2024 - Now)
+- **Senior Program Chair**: AAAI 2027
+- **Area Chair / Action Editor**: ACL ARR (2024 - 2025.12)
 - **Reviewer / Program Committee**: IJCV, ACM CSUR, TASLP, AAAI 2025, NeuIPS (2023 - ), COLM (2024 - ), ICML (2024 - ), CVPR (2024 - ), ICLR (2024 - Now), ACL (2020 - 2023), EMNLP (2019 - 2023)
 - **Teaching Assistant**: 
   - Smart phone apps development (2024, HKU)
