@@ -14,6 +14,7 @@ I'm always happy to discuss potential collaborations—feel free to reach out!
 
 
 ## News
+* [2026/08] Two papers accepted by EMNLP 2026!
 * [2026/07] One paper ([AnalogRetriever](https://yihan-wa.github.io/AnalogRetriever/)) accepted at ICCAD 2026!
 * [2025/11] One paper accepted at AAAI 2026. Received <span style="color: #d4af37; font-weight: bold;">Outstanding Area Chair Award</span> at EMNLP 2025!
 * [2025/08] Two papers accepted by EMNLP 2025 and one by ACM MM 2025!
