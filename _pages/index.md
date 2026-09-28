@@ -6,7 +6,7 @@ title: "About"
 I am a PhD student in the [HKU-NLP](https://hkunlp.github.io/) group, co-supervised by Prof. [Lingpeng Kong](https://ikekonglp.github.io/) and Prof. [Qi Liu](https://leuchine.github.io/). I completed my master's degree at Peking University advised by Prof. [Xu Sun](https://xusun26.github.io/) and my bachelor's degree at Xidian University.
 
 My research focuses on:
-(i) developing frontier multimodal large language models ([MiMo-VL](https://arxiv.org/abs/2506.03569), [Reka Flash](https://arxiv.org/abs/2404.12387));
+(i) developing frontier multimodal large language models ([MiMo-V2.6](https://huggingface.co/collections/XiaomiMiMo/mimo-v26), [MiMo-VL](https://arxiv.org/abs/2506.03569), [Reka Flash](https://arxiv.org/abs/2404.12387));
 (ii) understanding the fundamental mechanisms of LLMs and MLLMs ([In-context Learning](https://arxiv.org/abs/2305.14160), [LLMs-as-a-Judge](https://arxiv.org/abs/2305.17926)).
 
 
@@ -14,6 +14,7 @@ I'm always happy to discuss potential collaborations—feel free to reach out!
 
 
 ## News
+* [2026/09] [Claw-Eval](https://arxiv.org/abs/2604.06132) accepted by NeurIPS 2026 ED Track!
 * [2026/08] Two papers accepted by EMNLP 2026!
 * [2026/07] One paper ([AnalogRetriever](https://yihan-wa.github.io/AnalogRetriever/)) accepted at ICCAD 2026!
 * [2025/11] One paper accepted at AAAI 2026. Received <span style="color: #d4af37; font-weight: bold;">Outstanding Area Chair Award</span> at EMNLP 2025!
@@ -85,6 +86,10 @@ Chaoyou Fu, Yuhan Dai, Yongdong Luo, **Lei Li**, Shuhuai Ren, Renrui Zhang et al
 ### Emerging Capabilities of LLMs
 
 
+* **Claw-Eval: Toward Trustworthy Evaluation of Autonomous Agents**  
+Bowen Ye, Rang Li, Qibin Yang, Yuanxin Liu, Linli Yao, Hanglong Lv, Zhihui Xie, Chenxin An, **Lei Li**, Lingpeng Kong, Qi Liu, Zhifang Sui, Tong Yang (Project Lead)  
+***NeurIPS 2026 ED Track*** [[arxiv](https://arxiv.org/abs/2604.06132), [project page](https://claw-eval.github.io/)]
+
 * **A Survey for In-context Learning**  
   Qingxiu Dong, **Lei Li**, Damai Dai, Ce Zheng, Jingyuan Ma, Rui Li, Heming Xia, Jingjing Xu, Zhiyong Wu, Baobao Chang, Xu Sun, Lei Li, Zhifang Sui   
   ***EMNLP 2024, [Most Influential Papers of EMNLP 2024](https://resources.paperdigest.org/2025/03/most-influential-emnlp-papers-2025-03-version/)*** [[arxiv](https://arxiv.org/pdf/2301.00234.pdf), [paper list](https://github.com/dqxiu/ICL_PaperList)]
@@ -136,10 +141,6 @@ Chaoyou Fu, Yuhan Dai, Yongdong Luo, **Lei Li**, Shuhuai Ren, Renrui Zhang et al
 
 
 ### Preprints
-
-* **Claw-Eval: Toward Trustworthy Evaluation of Autonomous Agents**  
-Bowen Ye, Rang Li, Qibin Yang, Yuanxin Liu, Linli Yao, Hanglong Lv, Zhihui Xie, Chenxin An, **Lei Li**, Lingpeng Kong, Qi Liu, Zhifang Sui, Tong Yang (Project Lead)  
-[[arxiv](https://arxiv.org/abs/2604.06132)]
 
 * **M3IT: A Large-Scale Dataset towards Multi-Modal Multilingual Instruction Tuning**  
 **Lei Li**, Yuwei Yin, Shicheng Li, Liang Chen, Peiyi Wang, Shuhuai Ren, Mukai Li, Yazheng Yang, Jingjing Xu, Xu Sun, Lingpeng Kong, Qi Liu  
